@@ -1803,7 +1803,7 @@
 }, {
 	"name": "Wion News",
 	"icon": "wiontv.png",
-	"link": "wion",
+	"link": "0-9-wion",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
