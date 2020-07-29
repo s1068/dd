@@ -307,7 +307,7 @@
 }, {
 	"name": "DD Odia",
 	"icon": "ddodia.jpg",
-	"link": "ddodia",
+	"link": "0-9-ddodia",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -409,7 +409,7 @@
 }, {
 	"name": "DD Rajasthan",
 	"icon": "ddrajasthan.jpg",
-	"link": "ddrajasthan",
+	"link": "0-9-ddrajasthanjaipur",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -426,7 +426,7 @@
 }, {
 	"name": "DD Urdu",
 	"icon": "ddurdu.jpg",
-	"link": "ddurdu",
+	"link": "0-9-ddurdu",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
