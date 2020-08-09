@@ -84,9 +84,9 @@
 	"visibility": "yes",
 	"channel_id": 713
 }, {
-	"name": "AUS TAMIL TV",
-	"icon": "austamil.png",
-	"link": "https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8",
+	"name": "DD Saptagiri",
+	"icon": "mxddSaptagiri.jpg",
+	"link": "https://m-c15-j2apps.s.llnwi.net/hls/0286.DDSaptagiri.in.m3u8",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -94,10 +94,10 @@
 	"orig": "",
 	"cook": "",
 	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 2,
-	"category": "Entertainment",
+	"channelLanguageId": 4,
+	"lang": "Telugu",
+	"channelCategoryId": 1,
+	"category": "News",
 	"visibility": "yes",
 	"channel_id": 0
 }, {
@@ -1186,6 +1186,23 @@
 	"lang": "Tamil",
 	"channelCategoryId": 6,
 	"category": "Devotional",
+	"visibility": "yes",
+	"channel_id": 0
+}, {
+	"name": "AUS TAMIL TV",
+	"icon": "austamil.png",
+	"link": "https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8",
+	"drm_scheme": "",
+	"drm_license_url": "",
+	"us_ag": "",
+	"refe": "",
+	"orig": "",
+	"cook": "",
+	"source": "dd",
+	"channelLanguageId": 1,
+	"lang": "Tamil",
+	"channelCategoryId": 2,
+	"category": "Entertainment",
 	"visibility": "yes",
 	"channel_id": 0
 }, {
