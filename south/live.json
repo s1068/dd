@@ -137,7 +137,7 @@
 }, {
 	"name": "Boss TV",
 	"icon": "bosstv.png",
-	"link": "http://bosstv4.chennaistream.net/live/bosstvlive/playlist.m3u8",
+	"link": "http://bosstv-notv.chennaistream.net/bosstv/bosstvlive/playlist.m3u8",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
