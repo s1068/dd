@@ -2175,43 +2175,9 @@
 	"visibility": "yes",
 	"channel_id": 0
 }, {
-	"name": "PBS NewsHour",
-	"icon": "PBSNewsHour.jpg",
-	"link": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-	"drm_scheme": "",
-	"drm_lic_url": "",
-	"us_ag": "",
-	"refe": "",
-	"orig": "",
-	"cook": "",
-	"source": "ytc",
-	"channelLanguageId": 5,
-	"lang": "English",
-	"channelCategoryId": 1,
-	"category": "News",
-	"visibility": "yes",
-	"channel_id": 0
-}, {
 	"name": "Bloomberg",
 	"icon": "bloomberg.jpg",
 	"link": "dp8PhLsUcFE",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "",
-	"refe": "",
-	"orig": "",
-	"cook": "",
-	"source": "ytl",
-	"channelLanguageId": 5,
-	"lang": "English",
-	"channelCategoryId": 1,
-	"category": "News",
-	"visibility": "yes",
-	"channel_id": 0
-}, {
-	"name": "CBN News",
-	"icon": "CBNNews.jpg",
-	"link": "AJ1V00eut3s",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -2260,40 +2226,6 @@
 	"visibility": "yes",
 	"channel_id": 0
 }, {
-	"name": "Newsmax TV",
-	"icon": "NewsmaxTV.jpg",
-	"link": "UCx6h-dWzJ5NpAlja1YsApdg",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "",
-	"refe": "",
-	"orig": "",
-	"cook": "",
-	"source": "ytc",
-	"channelLanguageId": 5,
-	"lang": "English",
-	"channelCategoryId": 1,
-	"category": "News",
-	"visibility": "yes",
-	"channel_id": 0
-}, {
-	"name": "Channel 4",
-	"icon": "Channel4.jpg",
-	"link": "UCz1hQ68G3XPVYEBoFDgSjcQ",
-	"drm_scheme": "",
-	"drm_lic_url": "",
-	"us_ag": "",
-	"refe": "",
-	"orig": "",
-	"cook": "",
-	"source": "ytc",
-	"channelLanguageId": 5,
-	"lang": "English",
-	"channelCategoryId": 2,
-	"category": "Entertainment",
-	"visibility": "yes",
-	"channel_id": 0
-}, {
 	"name": "Talking Tom",
 	"icon": "talktom.jpg",
 	"link": "UCm3hAp1m1xlAz0ve_EKAo4g",
@@ -2325,24 +2257,7 @@
 	"lang": "English",
 	"channelCategoryId": 4,
 	"category": "Kids",
-	"visibility": "yes",
-	"channel_id": 0
-}, {
-	"name": "Morphle Tv",
-	"icon": "morphletv.jpg",
-	"link": "UC5Ti4_DVp7LW34PjEwB13Xg",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "",
-	"refe": "",
-	"orig": "",
-	"cook": "",
-	"source": "ytc",
-	"channelLanguageId": 5,
-	"lang": "English",
-	"channelCategoryId": 4,
-	"category": "Kids",
-	"visibility": "yes",
+	"visibility": "no ",
 	"channel_id": 0
 }, {
 	"name": "Bhakthi TV",
@@ -2954,7 +2869,7 @@
 	"lang": "Malayalam",
 	"channelCategoryId": 2,
 	"category": "Entertainment",
-	"visibility": "yes",
+	"visibility": "no",
 	"channel_id": 0
 }, {
 	"name": "Magna Vision",
@@ -3056,7 +2971,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 2,
 	"category": "Entertainment",
-	"visibility": "yes",
+	"visibility": "no",
 	"channel_id": 0
 }, {
 	"name": "MetroOne Tv",
@@ -3073,7 +2988,7 @@
 	"lang": "Malayalam",
 	"channelCategoryId": 2,
 	"category": "Entertainment",
-	"visibility": "yes",
+	"visibility": "no",
 	"channel_id": 0
 }, {
 	"name": "UTV PKD",
@@ -3141,7 +3056,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 3,
 	"category": "music",
-	"visibility": "yes",
+	"visibility": "no",
 	"channel_id": 0
 }, {
 	"name": "Wathanam TV",
@@ -3158,7 +3073,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 2,
 	"category": "Entertainment",
-	"visibility": "yes",
+	"visibility": "no",
 	"channel_id": 0
 }, {
 	"name": "Sana Plus",
@@ -3232,40 +3147,6 @@
 	"name": "Pakalavan TV",
 	"icon": "",
 	"link": "http://player.yarlsriserver.com/pakalavantv/e26fd7c8b4fd8eafbb9f99a19a1c3701.sdp/playlist.m3u8",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "",
-	"refe": "",
-	"orig": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 3,
-	"category": "music",
-	"visibility": "yes",
-	"channel_id": 0
-}, {
-	"name": "Vani TV HD",
-	"icon": "",
-	"link": "http://7starcloud.com:1935/vanitv/livemedia/playlist.m3u8",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "",
-	"refe": "",
-	"orig": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 3,
-	"category": "music",
-	"visibility": "yes",
-	"channel_id": 0
-}, {
-	"name": "Nandhanna TV",
-	"icon": "",
-	"link": "http://7starcloud.com:1935/nandhanna/nandhannatv/playlist.m3u8",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
