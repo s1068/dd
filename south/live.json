@@ -696,23 +696,6 @@
 	"visibility": "yes",
 	"channel_id": 0
 }, {
-	"name": "KollywoodIn",
-	"icon": "kollywood.jpg",
-	"link": "https://m-c09-j2apps.s.llnwi.net/hls/8002.Kollywood.in.m3u8",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "",
-	"refe": "",
-	"orig": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 2,
-	"category": "Entertainment",
-	"visibility": "yes",
-	"channel_id": 0
-}, {
 	"name": "Meenakshi TV",
 	"icon": "Meenakshitv.png",
 	"link": "https://stream.meenakshitv.com/LiveApp/streams/737506415855638572426221.m3u8",
@@ -965,7 +948,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 6,
 	"category": "Devotional",
-	"visibility": "yes",
+	"visibility": "no",
 	"channel_id": 0
 }, {
 	"name": "Puthiya Thalaimurai",
@@ -2464,43 +2447,9 @@
 	"visibility": "yes",
 	"channel_id": 0
 }, {
-	"name": "Wordgod Tv",
-	"icon": "Wordgod.jpg",
-	"link": "https://5c75277727cd1.streamlock.net:443/wordgodtv/wordgodtv/playlist.m3u8",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "",
-	"refe": "",
-	"orig": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 6,
-	"category": "Devotional",
-	"visibility": "yes",
-	"channel_id": 0
-}, {
 	"name": "Vinmeen music",
 	"icon": "vinmeen.jpg",
 	"link": "http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "",
-	"refe": "",
-	"orig": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 6,
-	"category": "Devotional",
-	"visibility": "yes",
-	"channel_id": 0
-}, {
-	"name": "PSALM TV",
-	"icon": "psalmtv.jpg",
-	"link": "https://5c75277727cd1.streamlock.net:443/psalmtv/psalmtv/playlist.m3u8",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -2583,23 +2532,6 @@
 	"visibility": "yes",
 	"channel_id": 0
 }, {
-	"name": "Grace Tv",
-	"icon": "",
-	"link": "http://209.58.177.175/gracehls/live.m3u8",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "",
-	"refe": "",
-	"orig": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 6,
-	"category": "Devotional",
-	"visibility": "yes",
-	"channel_id": 0
-}, {
 	"name": "Jeyam Tv",
 	"icon": "",
 	"link": "http://jeyamtv.livebox.co.in/JeyamTelevisionhls/JeyamTelevision.m3u8",
@@ -2654,23 +2586,6 @@
 	"name": "Heaven TV India",
 	"icon": "",
 	"link": "http://209.58.160.179/heaventvhls/live.m3u8",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "",
-	"refe": "",
-	"orig": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 6,
-	"category": "Devotional",
-	"visibility": "yes",
-	"channel_id": 0
-}, {
-	"name": "Channel 316",
-	"icon": "",
-	"link": "http://193.70.43.158/channel316hls/live.m3u8",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -3039,7 +2954,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 3,
 	"category": "Music",
-	"visibility": "yes",
+	"visibility": "no",
 	"channel_id": 0
 }, {
 	"name": "Sana Tv",
@@ -3090,7 +3005,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 3,
 	"category": "music",
-	"visibility": "yes",
+	"visibility": "no",
 	"channel_id": 0
 }, {
 	"name": "CTV",
