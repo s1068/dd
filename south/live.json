@@ -710,7 +710,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 2,
 	"category": "Entertainment",
-	"visibility": "yes",
+	"visibility": "no",
 	"channel_id": 0
 }, {
 	"name": "JCV TV",
@@ -727,7 +727,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 2,
 	"category": "Entertainment",
-	"visibility": "yes",
+	"visibility": "no",
 	"channel_id": 0
 }, {
 	"name": "MK TV",
