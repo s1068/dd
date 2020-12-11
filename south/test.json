@@ -1,0 +1,19 @@
+{
+	"stations": [{
+			"id": "20",
+			"name": "CGTN",
+			"logo": "cgtn.png",
+			"url": [
+				"http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8",
+				"http://live.cgtn.com/1000/prog_index.m3u8"
+			]
+		},
+		{
+			"name": "CBSN",
+			"logo": "cbsn.png",
+			"url": [
+				"https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8"
+			]
+		}
+	]
+}
