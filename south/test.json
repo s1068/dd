@@ -1,35 +1,30 @@
 {
-    "stations": [
-        {
-            "id": "20",
-            "name": "CGTN",
-            "logo": "cgtn.png",
-            "url": [
-                "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8",
-                "http://live.cgtn.com/1000/prog_index.m3u8",
-                "http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8",
-                "http://live.cgtn.com/500/prog_index.m3u8"
-            ]
-        },
-        {
-            "id": "21",
-            "name": "CBSN",
-            "logo": "cbsn.png",
-            "url": [
-                "https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8",
-                "https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8",
-                "https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"
-            ]
-        },
-        {
-            "id": "22",
-            "name": "CBSN",
-            "logo": "cbsn.png",
-            "url": [
-                "https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8",
-                "https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8",
-                "https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"
-            ]
-        }
-    ]
+	"stations": [{
+		"id": "1",
+		"name": "CCTV-1",
+		"logo": "cctv1.png",
+		"url": [
+			"http://223.110.241.139:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/",
+			"http://223.110.241.139:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/",
+			"http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225530/index.m3u8",
+			"http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227462/index.m3u8",
+			"http://223.110.241.203:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/",
+			"http://223.110.241.203:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/",
+			"http://223.110.242.130:6610/cntv/live1/cctv-1/cctv-1",
+			"http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+			"http://121.31.30.90:8085/ysten-business/live/cctv-1/1.m3u8",
+			"http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226998/index.m3u8",
+			"http://121.31.30.90:8085/ysten-business/live/cctv-1/yst.m3u8",
+			"http://117.169.120.140:8080/live/cctv-1/.m3u8",
+			"http://183.207.249.15/PLTV/3/224/3221225530/index.m3u8",
+			"http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226316/index.m3u8",
+			"http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227375/index.m3u8",
+			"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225530/index.m3u8",
+			"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226316/index.m3u8",
+			"http://111.44.138.251:16414/contents39/live/CHANNEL9908b259e5a74eb59270318d56a33840/HD_1396371360726111648/live.m3u8",
+			"http://125.210.152.10:8060/live/CCTV1HD_H265.m3u8",
+			"http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/1.m3u8",
+			"http://223.110.243.138/PLTV/1/224/3221227467/index.m3u8"
+		]
+	}]
 }
