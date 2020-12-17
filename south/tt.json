@@ -1,0 +1,25 @@
+[{
+	"name": "test1",
+	"logo": "RussiaTodaynews.jpg",
+	"url": "hello"
+}, {
+	"name": "test2",
+	"logo": "abcnews.jpg",
+	"url": "hello"
+}, {
+	"name": "test3",
+	"logo": "abcnews.jpg",
+	"url": "hello"
+}, {
+	"name": "test4",
+	"logo": "abcnews.jpg",
+	"url": "hello"
+}, {
+	"name": "test5",
+	"logo": "abcnews.jpg",
+	"url": "hello"
+}, {
+	"name": "test6",
+	"logo": "RussiaTodaynews.jpg",
+	"url": "hello"
+}]
