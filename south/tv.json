@@ -39,32 +39,6 @@
 	"visibility": "yes"
 }, {
 	"id": "4",
-	"name": "Jaya Plus img",
-	"logo": "jayaplus.jpg",
-	"url": "UCOP4Gbw-T1ofcW8vyL89ZDw",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"user_agent": "",
-	"referer": "",
-	"origin": "",
-	"cookie": "",
-	"source": "ytc",
-	"visibility": "yes"
-}, {
-	"id": "5",
-	"name": "Kalaignar Seithigal",
-	"logo": "KalaignarSeithigal.jpg",
-	"url": "UCcVF2Fth-qEA4T1Lhn3CgKg",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"user_agent": "",
-	"referer": "",
-	"origin": "",
-	"cookie": "",
-	"source": "ytc",
-	"visibility": "yes"
-}, {
-	"id": "6",
 	"name": "News7",
 	"logo": "News7Tamil.jpg",
 	"url": "UCGyZswzm4G-wEfRQHgMSAuw",
@@ -77,7 +51,7 @@
 	"source": "ytc",
 	"visibility": "yes"
 }, {
-	"id": "7",
+	"id": "5",
 	"name": "News18",
 	"logo": "News18Tamilnadu.jpg",
 	"url": "UCat88i6_rELqI_prwvjspRA",
@@ -90,7 +64,46 @@
 	"source": "ytc",
 	"visibility": "yes"
 }, {
+	"id": "6",
+	"name": "Sun News",
+	"logo": "SunNews.jpg",
+	"url": "UCYlh4lH762HvHt6mmiecyWQ",
+	"drm_scheme": "",
+	"drm_license_url": "",
+	"user_agent": "",
+	"referer": "",
+	"origin": "",
+	"cookie": "",
+	"source": "ytc",
+	"visibility": "yes"
+}, {
+	"id": "7",
+	"name": "Jaya Plus",
+	"logo": "jayaplus.jpg",
+	"url": "UCOP4Gbw-T1ofcW8vyL89ZDw",
+	"drm_scheme": "",
+	"drm_license_url": "",
+	"user_agent": "",
+	"referer": "",
+	"origin": "",
+	"cookie": "",
+	"source": "ytc",
+	"visibility": "yes"
+}, {
 	"id": "8",
+	"name": "Kalaignar Seithigal",
+	"logo": "KalaignarSeithigal.jpg",
+	"url": "UCcVF2Fth-qEA4T1Lhn3CgKg",
+	"drm_scheme": "",
+	"drm_license_url": "",
+	"user_agent": "",
+	"referer": "",
+	"origin": "",
+	"cookie": "",
+	"source": "ytc",
+	"visibility": "yes"
+}, {
+	"id": "9",
 	"name": "NewsJ",
 	"logo": "NewsJ.jpg",
 	"url": "UCsfh2Zb7-m4qzT8jLhK_Fzw",
@@ -103,7 +116,7 @@
 	"source": "ytc",
 	"visibility": "yes"
 }, {
-	"id": "9",
+	"id": "10",
 	"name": "Sathiyam Tv",
 	"logo": "SathiyamTV.jpg",
 	"url": "UC2ziCMHFPWkFHjocUMXT__Q",
@@ -116,7 +129,7 @@
 	"source": "ytc",
 	"visibility": "yes"
 }, {
-	"id": "10",
+	"id": "11",
 	"name": "Captain News",
 	"logo": "CaptainNews.jpg",
 	"url": "UCno6OgN7-NDmRTNBgqWevlw",
@@ -129,7 +142,7 @@
 	"source": "ytc",
 	"visibility": "yes"
 }, {
-	"id": "11",
+	"id": "12",
 	"name": "Malaimurasu News",
 	"logo": "MalaiMurasu.jpg",
 	"url": "https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8",
