@@ -1,5 +1,18 @@
 [{
 	"id": "1",
+	"name": "Vijay TV",
+	"logo": "StarVijay.jpg.jpg",
+	"url": "hotstar://content/1260000018",
+	"drm_scheme": "",
+	"drm_license_url": "",
+	"user_agent": "",
+	"referer": "",
+	"origin": "",
+	"cookie": "",
+	"source": "hotstar",
+	"visibility": "yes"
+}, {
+	"id": "1",
 	"name": "Puthiya Thalaimurai",
 	"logo": "PuthiyaThalimurai.jpg",
 	"url": "UCmyKnNRH0wH-r8I-ceP-dsg",
