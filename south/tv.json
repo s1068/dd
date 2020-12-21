@@ -1,7 +1,7 @@
 [{
 	"id": "1",
 	"name": "Vijay TV",
-	"logo": "StarVijay.jpg.jpg",
+	"logo": "StarVijay.jpg",
 	"url": "hotstar://content/1260000018",
 	"drm_scheme": "",
 	"drm_license_url": "",
