@@ -1,5 +1,18 @@
 [{
 	"id": "1",
+	"name": "Sun TV",
+	"logo": "SunTVHD.jpg",
+	"url": "MWTV_LIVETVCHANNEL_10000000018500000",
+	"drm_scheme": "",
+	"drm_license_url": "",
+	"user_agent": "",
+	"referer": "",
+	"origin": "",
+	"cookie": "",
+	"source": "airtel",
+	"visibility": "yes"
+},{
+	"id": "1",
 	"name": "Vijay TV",
 	"logo": "StarVijay.jpg",
 	"url": "hotstar://content/1260000018",
