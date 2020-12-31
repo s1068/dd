@@ -1,5 +1,18 @@
 [{
 	"id": "1",
+	"name": "Vijay TV",
+	"logo": "StarVijay.jpg",
+	"url": "hotstar://content/1260000018",
+	"drm_scheme": "",
+	"drm_license_url": "",
+	"user_agent": "",
+	"referer": "",
+	"origin": "",
+	"cookie": "",
+	"source": "hotstar",
+	"visibility": "yes"
+}, {
+	"id": "1",
 	"name": "Sun TV",
 	"logo": "SunTVHD.jpg",
 	"url": "MWTV_LIVETVCHANNEL_966",
@@ -11,18 +24,57 @@
 	"cookie": "",
 	"source": "airtel",
 	"visibility": "yes"
-},{
+}, {
 	"id": "1",
-	"name": "Vijay TV",
-	"logo": "StarVijay.jpg",
-	"url": "hotstar://content/1260000018",
+	"name": "KTV HD",
+	"logo": "",
+	"url": "MWTV_LIVETVCHANNEL_967",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"user_agent": "",
 	"referer": "",
 	"origin": "",
 	"cookie": "",
-	"source": "hotstar",
+	"source": "airtel",
+	"visibility": "yes"
+}, {
+	"id": "1",
+	"name": "Sun Music HD",
+	"logo": "",
+	"url": "MWTV_LIVETVCHANNEL_961",
+	"drm_scheme": "",
+	"drm_license_url": "",
+	"user_agent": "",
+	"referer": "",
+	"origin": "",
+	"cookie": "",
+	"source": "airtel",
+	"visibility": "yes"
+}, {
+	"id": "1",
+	"name": "Color HD",
+	"logo": "",
+	"url": "MWTV_LIVETVCHANNEL_10000000057050000",
+	"drm_scheme": "",
+	"drm_license_url": "",
+	"user_agent": "",
+	"referer": "",
+	"origin": "",
+	"cookie": "",
+	"source": "airtel",
+	"visibility": "yes"
+}, {
+	"id": "1",
+	"name": "ZeeTamil HD",
+	"logo": "",
+	"url": "MWTV_LIVETVCHANNEL_1010",
+	"drm_scheme": "",
+	"drm_license_url": "",
+	"user_agent": "",
+	"referer": "",
+	"origin": "",
+	"cookie": "",
+	"source": "airtel",
 	"visibility": "yes"
 }, {
 	"id": "1",
