@@ -27,7 +27,7 @@
 }, {
 	"id": "1",
 	"name": "KTV HD",
-	"logo": "",
+	"logo": "KTVHD.jpg",
 	"url": "MWTV_LIVETVCHANNEL_967",
 	"drm_scheme": "",
 	"drm_license_url": "",
@@ -66,7 +66,7 @@
 }, {
 	"id": "1",
 	"name": "ZeeTamil HD",
-	"logo": "",
+	"logo": "ZeeTamil.jpg",
 	"url": "MWTV_LIVETVCHANNEL_1010",
 	"drm_scheme": "",
 	"drm_license_url": "",
