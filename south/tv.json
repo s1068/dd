@@ -232,4 +232,17 @@
 	"cookie": "",
 	"source": "dd",
 	"visibility": "yes"
+}, {
+	"id": "12",
+	"name": "sun",
+	"logo": "MalaiMurasu.jpg",
+	"url": "28127",
+	"drm_scheme": "",
+	"drm_license_url": "",
+	"user_agent": "",
+	"referer": "",
+	"origin": "",
+	"cookie": "",
+	"source": "voda",
+	"visibility": "yes"
 }]
