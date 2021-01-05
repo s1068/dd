@@ -13,9 +13,9 @@
 	"visibility": "yes"
 }, {
 	"id": "1",
-	"name": "Sun TV",
+	"name": "Sun TV HD",
 	"logo": "SunTVHD.jpg",
-	"url": "136112",
+	"url": "MWTV_LIVETVCHANNEL_966",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"user_agent": "",
@@ -28,14 +28,14 @@
 	"id": "1",
 	"name": "KTV HD",
 	"logo": "KTVHD.jpg",
-	"url": "MWTV_LIVETVCHANNEL_967",
+	"url": "136111",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"user_agent": "",
 	"referer": "",
 	"origin": "",
 	"cookie": "",
-	"source": "airtel",
+	"source": "voda",
 	"visibility": "yes"
 }, {
 	"id": "1",
@@ -54,7 +54,7 @@
 	"id": "1",
 	"name": "Color HD Tamil",
 	"logo": "ColorsHD.jpg",
-	"url": "MWTV_LIVETVCHANNEL_10000000057050000",
+	"url": "361390",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"user_agent": "",
@@ -234,9 +234,22 @@
 	"visibility": "yes"
 }, {
 	"id": "12",
-	"name": "sun",
-	"logo": "MalaiMurasu.jpg",
-	"url": "28127",
+	"name": "Sun Music",
+	"logo": "SunMusic.jpg",
+	"url": "136285",
+	"drm_scheme": "",
+	"drm_license_url": "",
+	"user_agent": "",
+	"referer": "",
+	"origin": "",
+	"cookie": "",
+	"source": "voda",
+	"visibility": "yes"
+}, {
+	"id": "12",
+	"name": "ZeeThirai",
+	"logo": "ZeeThirai.jpg",
+	"url": "253661",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"user_agent": "",
