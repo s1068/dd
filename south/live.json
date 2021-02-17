@@ -183,7 +183,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 2,
 	"category": "Entertainment",
-	"visibility": "yes",
+	"visibility": "no",
 	"channel_id": 0
 }, {
 	"name": "Akaram Mix",
@@ -200,7 +200,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 3,
 	"category": "News",
-	"visibility": "yes",
+	"visibility": "no",
 	"channel_id": 0
 }, {
 	"name": "Vaanavil TV",
