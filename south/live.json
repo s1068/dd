@@ -285,7 +285,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 2,
 	"category": "Entertainment",
-	"visibility": "yes",
+	"visibility": "no",
 	"channel_id": 0
 }, {
 	"name": "Nakkubetta Ooty Tv",
@@ -319,24 +319,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 3,
 	"category": "Music",
-	"visibility": "yes",
-	"channel_id": 0
-}, {
-	"name": "IBC Music",
-	"icon": "ibcmusic.png",
-	"link": "https://ibcmusic-live.ibctamil.com/transcode/music.m3u8",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "",
-	"refe": "",
-	"orig": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 3,
-	"category": "Music",
-	"visibility": "yes",
+	"visibility": "no",
 	"channel_id": 0
 }, {
 	"name": "Ragam TV",
@@ -528,7 +511,7 @@
 }, {
 	"name": "IBC Tamil",
 	"icon": "ibctamil.png",
-	"link": "https://ibctamil-live.ibctamil.com/transcode/ibctamil_mid.m3u8",
+	"link": "https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -545,7 +528,7 @@
 }, {
 	"name": "IBC Bakthi",
 	"icon": "ibcbakthi.png",
-	"link": "https://ibcbakthi-live.ibctamil.com/transcode/ibcbakthi_mid.m3u8",
+	"link": "https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -562,7 +545,7 @@
 }, {
 	"name": "IBC Music",
 	"icon": "ibcmusic.png",
-	"link": "https://ibcmusic-live.ibctamil.com/transcode/music_mid.m3u8",
+	"link": "https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -579,7 +562,7 @@
 }, {
 	"name": "IBC Siluvaii",
 	"icon": "ibcsiluvaii.png",
-	"link": "https://ibcsiluvai-live.ibctamil.com/transcode/ibcsiluvai_mid.m3u8",
+	"link": "https://tx1.ibctamil.tv/CDN_IBC_Siluvai/index.m3u8",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -596,7 +579,7 @@
 }, {
 	"name": "IBC Pagadi",
 	"icon": "ibcpagadi.png",
-	"link": "https://ibccomedy-live.ibctamil.com/transcode/ibccomedy_mid.m3u8",
+	"link": "https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -613,7 +596,7 @@
 }, {
 	"name": "IBC Kids",
 	"icon": "ibckids.png",
-	"link": "https://ibckids-live.ibctamil.com/transcode/ibckids_mid.m3u8",
+	"link": "https://tx1.ibctamil.tv/CDN_IBC_Kids/index.m3u8",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
