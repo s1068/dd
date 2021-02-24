@@ -1563,23 +1563,6 @@
 	"visibility": "yes",
 	"channel_id": 0
 }, {
-	"name": "AP24x7",
-	"icon": "teluguap34x7.jpg",
-	"link": "UCpbW96xFi7vbTM98vGMQh-g",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "ddnetwork",
-	"refe": "",
-	"orig": "",
-	"cook": "17",
-	"source": "ytc",
-	"channelLanguageId": 4,
-	"lang": "Telugu",
-	"channelCategoryId": 1,
-	"category": "News",
-	"visibility": "yes",
-	"channel_id": 0
-}, {
 	"name": "V6 News",
 	"icon": "teluguv6news.png",
 	"link": "UCDCMjD1XIAsCZsYHNMGVcog",
@@ -1732,24 +1715,7 @@
 	"category": "News",
 	"visibility": "yes",
 	"channel_id": 0
-}, {
-	"name": "RAJ News Telugu",
-	"icon": "rajnewstelugu.jpg",
-	"link": "UCVGRzd9YUtXYozquyYcjQOQ",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "ddnetwork",
-	"refe": "",
-	"orig": "",
-	"cook": "17",
-	"source": "ytc",
-	"channelLanguageId": 4,
-	"lang": "Telugu",
-	"channelCategoryId": 1,
-	"category": "News",
-	"visibility": "yes",
-	"channel_id": 664
-}, {
+},{
 	"name": "ETV Bharath Andhra",
 	"icon": "teluguetvnewsAndhra.jpg",
 	"link": "https://d1lqvjyfwvyj07.cloudfront.net/out/v1/d54651fa806648719a92727a661fa0d0/ETVB_CF_AP_NewsTime_1.m3u8",
