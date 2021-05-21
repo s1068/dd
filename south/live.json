@@ -1,4 +1,21 @@
 [{
+	"name": "DD India",
+	"icon": "ddindia.jpg",
+	"link": "UCGDQNvybfDDeGTf4GtigXaw",
+	"drm_scheme": "",
+	"drm_license_url": "",
+	"us_ag": "",
+	"refe": "",
+	"orig": "",
+	"cook": "17",
+	"source": "ytc",
+	"channelLanguageId": 5,
+	"lang": "English",
+	"channelCategoryId": 1,
+	"category": "News",
+	"visibility": "yes",
+	"channel_id": 528
+}, {
 	"name": "DD Yadagiri",
 	"icon": "ddyadagiri.png",
 	"link": "0-9-ddyadagiri",
