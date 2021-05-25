@@ -100,7 +100,7 @@
 	"category": "News",
 	"visibility": "yes",
 	"channel_id": 0
-},  {
+}, {
 	"name": "EET TV",
 	"icon": "eetv.png",
 	"link": "https://live.streamjo.com/eetlive/eettv.m3u8",
@@ -184,23 +184,6 @@
 	"channelCategoryId": 3,
 	"category": "News",
 	"visibility": "no",
-	"channel_id": 0
-}, {
-	"name": "Vaanavil TV",
-	"icon": "vaanavil.png",
-	"link": "http://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "",
-	"refe": "",
-	"orig": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 3,
-	"category": "Music",
-	"visibility": "yes",
 	"channel_id": 0
 }, {
 	"name": "Makkal TV",
@@ -594,23 +577,6 @@
 	"visibility": "yes",
 	"channel_id": 0
 }, {
-	"name": "7S Music",
-	"icon": "7music.jpg",
-	"link": "https://m-c17-j2apps.s.llnwi.net/hls/1493.7SMusic.in.m3u8",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "",
-	"refe": "",
-	"orig": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 3,
-	"category": "Music",
-	"visibility": "yes",
-	"channel_id": 0
-}, {
 	"name": "Captain TV",
 	"icon": "captaintv.jpg",
 	"link": "https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in.m3u8",
@@ -781,23 +747,6 @@
 	"visibility": "yes",
 	"channel_id": 0
 }, {
-	"name": "Peppers TV",
-	"icon": "pepperstv.png",
-	"link": "http://live.wmncdn.net/peppers/live.stream/index.m3u8",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "",
-	"refe": "",
-	"orig": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 3,
-	"category": "Music",
-	"visibility": "yes",
-	"channel_id": 796
-}, {
 	"name": "IsaiAruvi",
 	"icon": "isaiaruvi.jpg",
 	"link": "https://m-c17-j2apps.s.llnwi.net/hls/0390.IsaiAruvi.in.m3u8",
@@ -863,23 +812,6 @@
 	"lang": "Tamil",
 	"channelCategoryId": 2,
 	"category": "Entertainment",
-	"visibility": "yes",
-	"channel_id": 0
-}, {
-	"name": "Dheeran tv",
-	"icon": "dheerantv.jpg",
-	"link": "https://5c75277727cd1.streamlock.net/dheeran/dheeran/playlist.m3u8",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "",
-	"refe": "",
-	"orig": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 3,
-	"category": "Music",
 	"visibility": "yes",
 	"channel_id": 0
 }, {
@@ -1240,33 +1172,16 @@
 	"visibility": "yes",
 	"channel_id": 671
 }, {
-	"name": "Captain News",
-	"icon": "captainnews.jpg",
-	"link": "UCno6OgN7-NDmRTNBgqWevlw",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "",
-	"refe": "",
-	"orig": "",
-	"cook": "17",
-	"source": "ytc",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 1,
-	"category": "News",
-	"visibility": "yes",
-	"channel_id": 645
-}, {
 	"name": "Vendhar TV",
 	"icon": "VendharTV.jpg",
-	"link": "https://45.79.203.234:1935/vendharm/myStream/playlist.m3u8",
+	"link": "vendhartv",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
 	"refe": "",
 	"orig": "",
 	"cook": "",
-	"source": "dd",
+	"source": "yupp",
 	"channelLanguageId": 1,
 	"lang": "Tamil",
 	"channelCategoryId": 2,
@@ -1698,7 +1613,7 @@
 	"category": "News",
 	"visibility": "yes",
 	"channel_id": 0
-},{
+}, {
 	"name": "ETV Bharath Andhra",
 	"icon": "teluguetvnewsAndhra.jpg",
 	"link": "https://d1lqvjyfwvyj07.cloudfront.net/out/v1/d54651fa806648719a92727a661fa0d0/ETVB_CF_AP_NewsTime_1.m3u8",
@@ -2969,23 +2884,6 @@
 	"source": "dd",
 	"channelLanguageId": 2,
 	"lang": "Malayalam",
-	"channelCategoryId": 2,
-	"category": "Entertainment",
-	"visibility": "yes",
-	"channel_id": 0
-}, {
-	"name": "Xpres Tv music",
-	"icon": "",
-	"link": "http://nextgeninfotech.ddns.net:8080/xpres/xpres.m3u8",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "",
-	"refe": "",
-	"orig": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
 	"channelCategoryId": 2,
 	"category": "Entertainment",
 	"visibility": "yes",
