@@ -100,7 +100,7 @@
 	"category": "News",
 	"visibility": "yes",
 	"channel_id": 0
-}, {
+},  {
 	"name": "TVI TV",
 	"icon": "tvihd.png",
 	"link": "http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8",
@@ -167,6 +167,23 @@
 	"channelCategoryId": 3,
 	"category": "News",
 	"visibility": "no",
+	"channel_id": 0
+}, {
+	"name": "Vaanavil TV",
+	"icon": "vaanavil.png",
+	"link": "http://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8",
+	"drm_scheme": "",
+	"drm_license_url": "",
+	"us_ag": "",
+	"refe": "",
+	"orig": "",
+	"cook": "",
+	"source": "dd",
+	"channelLanguageId": 1,
+	"lang": "Tamil",
+	"channelCategoryId": 3,
+	"category": "Music",
+	"visibility": "yes",
 	"channel_id": 0
 }, {
 	"name": "Makkal TV",
@@ -1140,7 +1157,7 @@
 }, {
 	"name": "News7",
 	"icon": "tamilnews7.png",
-	"link": "UCGyZswzm4G-wEfRQHgMSAuw",
+	"link": "UC2f4w_ppqHplvjiNaoTAK9w",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "ddnetwork",
@@ -1664,7 +1681,7 @@
 	"category": "News",
 	"visibility": "yes",
 	"channel_id": 0
-}, {
+},{
 	"name": "ETV Bharath Andhra",
 	"icon": "teluguetvnewsAndhra.jpg",
 	"link": "https://d1lqvjyfwvyj07.cloudfront.net/out/v1/d54651fa806648719a92727a661fa0d0/ETVB_CF_AP_NewsTime_1.m3u8",
