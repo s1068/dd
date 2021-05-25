@@ -118,23 +118,6 @@
 	"visibility": "yes",
 	"channel_id": 0
 }, {
-	"name": "Boss TV",
-	"icon": "bosstv.png",
-	"link": "http://bosstv-notv.chennaistream.net/bosstv/bosstvlive/playlist.m3u8",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "",
-	"refe": "",
-	"orig": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 2,
-	"category": "Entertainment",
-	"visibility": "no",
-	"channel_id": 0
-}, {
 	"name": "Santhora TV",
 	"icon": "santhoratv.jpg",
 	"link": "http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8",
