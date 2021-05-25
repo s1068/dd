@@ -101,6 +101,23 @@
 	"visibility": "yes",
 	"channel_id": 0
 },  {
+	"name": "EET TV",
+	"icon": "eetv.png",
+	"link": "https://live.streamjo.com/eetlive/eettv.m3u8",
+	"drm_scheme": "",
+	"drm_license_url": "",
+	"us_ag": "",
+	"refe": "",
+	"orig": "",
+	"cook": "",
+	"source": "dd",
+	"channelLanguageId": 1,
+	"lang": "Tamil",
+	"channelCategoryId": 2,
+	"category": "Entertainment",
+	"visibility": "yes",
+	"channel_id": 0
+}, {
 	"name": "TVI TV",
 	"icon": "tvihd.png",
 	"link": "http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8",
