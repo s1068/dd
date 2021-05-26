@@ -186,6 +186,23 @@
 	"visibility": "no",
 	"channelId": 0
 }, {
+	"name": "7S Music",
+	"icon": "7music.jpg",
+	"link": "http://cdn.asianetmobiletvplus.com/channels/sevensmusic_ujsykhjdcipckiqidfpejqukrskxuutm/playlist.m3u8",
+	"drm_scheme": "",
+	"drm_license_url": "",
+	"us_ag": "media-proto-android/1.1.1 (Linux;Android 10) ExoPlayerLib/2.9.6",
+	"refe": "",
+	"orig": "",
+	"cook": "",
+	"source": "dd",
+	"channelLanguageId": 1,
+	"lang": "Tamil",
+	"channelCategoryId": 3,
+	"category": "Music",
+	"visibility": "yes",
+	"channel_id": 0
+}, {
 	"name": "Makkal TV",
 	"icon": "makkaltv.jpg",
 	"link": "http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
@@ -1171,6 +1188,23 @@
 	"category": "News",
 	"visibility": "yes",
 	"channelId": 671
+}, {
+	"name": "Captain News",
+	"icon": "captainnews.jpg",
+	"link": "https://cdn.asianetmobiletvplus.com/channels/captainnews_cqxrkkatswnooxjbmcrordijpqpvqwkc/playlist.m3u8",
+	"drm_scheme": "",
+	"drm_license_url": "",
+	"us_ag": "media-proto-android/1.1.1 (Linux;Android 10) ExoPlayerLib/2.9.6",
+	"refe": "",
+	"orig": "",
+	"cook": "17",
+	"source": "dd",
+	"channelLanguageId": 1,
+	"lang": "Tamil",
+	"channelCategoryId": 1,
+	"category": "News",
+	"visibility": "yes",
+	"channel_id": 645
 }, {
 	"name": "Vendhar TV",
 	"icon": "VendharTV.jpg",
