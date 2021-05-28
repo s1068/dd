@@ -1,7 +1,7 @@
 [{
-	"name": "DD India",
-	"icon": "ddindia.jpg",
-	"link": "UCGDQNvybfDDeGTf4GtigXaw",
+	"name": "DD 1",
+	"icon": "",
+	"link": "UCGDQNvybfDGTf4GtigXaw",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -16,9 +16,9 @@
 	"visibility": "yes",
 	"channel_id": 528
 }, {
-	"name": "DD Yadagiri",
-	"icon": "ddyadagiri.png",
-	"link": "0-9-ddyadagiri",
+	"name": "DD 2",
+	"icon": "",
+	"link": "0-9-yadagiri",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -33,9 +33,9 @@
 	"visibility": "yes",
 	"channel_id": 0
 }, {
-	"name": "DD Podhigai",
-	"icon": "ddpodhigai.jpg",
-	"link": "0-9-ddpodhigai",
+	"name": "DD 3",
+	"icon": "",
+	"link": "0-9dpodhigai",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -50,9 +50,9 @@
 	"visibility": "yes",
 	"channel_id": 726
 }, {
-	"name": "DD Malayalam",
-	"icon": "ddmalayalam.jpg",
-	"link": "0-9-ddmalayalam",
+	"name": "DD 4",
+	"icon": "",
+	"link": "0-9-ddmalalam",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -67,9 +67,9 @@
 	"visibility": "yes",
 	"channel_id": 699
 }, {
-	"name": "DD Chandana",
-	"icon": "ddchandana.jpg",
-	"link": "0-9-ddchandana",
+	"name": "DD 5",
+	"icon": "",
+	"link": "0-9-ddchanna",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -84,9 +84,9 @@
 	"visibility": "yes",
 	"channel_id": 713
 }, {
-	"name": "DD Saptagiri",
-	"icon": "mxddSaptagiri.jpg",
-	"link": "https://m-c15-j2apps.s.llnwi.net/hls/0286.DDSaptagiri.in.m3u8",
+	"name": "DD 6",
+	"icon": "",
+	"link": "https://m-c15-j2aps.llnwi.net/hls/0286.DDSaptagiri.in.m3u8",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -101,9 +101,9 @@
 	"visibility": "yes",
 	"channel_id": 0
 }, {
-	"name": "EET TV",
-	"icon": "eetv.png",
-	"link": "https://eu.streamjo.com/eetlive/eettv.m3u8",
+	"name": "DD 6",
+	"icon": "",
+	"link": "https://eu.strjo.com/eetlive/eettv.m3u8",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -118,9 +118,9 @@
 	"visibility": "yes",
 	"channel_id": 0
 }, {
-	"name": "TVI TV",
-	"icon": "tvihd.png",
-	"link": "http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8",
+	"name": "DD 7",
+	"icon": "",
+	"link": "http://live.tamilion.tv:8081/TVI/SD/playlist.m3u8",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -135,9 +135,9 @@
 	"visibility": "yes",
 	"channel_id": 0
 }, {
-	"name": "Boss TV",
-	"icon": "bosstv.png",
-	"link": "http://bosstv-notv.chennaistream.net/bosstv/bosstvlive/playlist.m3u8",
+	"name": "DD 8",
+	"icon": "",
+	"link": "http://bosstv-notvennaistream.net/bosstv/bosstvlive/playlist.m3u8",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -152,9 +152,9 @@
 	"visibility": "yes",
 	"channel_id": 0
 }, {
-	"name": "Santhora TV",
-	"icon": "santhoratv.jpg",
-	"link": "http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8",
+	"name": "DD 9",
+	"icon": "",
+	"link": "http://rtmp.santhtv.zecast.net/santhoratv/santhoratv/playlist.m3u8",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -169,9 +169,9 @@
 	"visibility": "yes",
 	"channel_id": 0
 }, {
-	"name": "Akaram TV",
-	"icon": "akaramtv.png",
-	"link": "http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8",
+	"name": "DD 10",
+	"icon": "",
+	"link": "http://akaram.zet.net/akaram-live/akaramnew2/playlist.m3u8",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -186,9 +186,9 @@
 	"visibility": "no",
 	"channel_id": 0
 }, {
-	"name": "Akaram Mix",
-	"icon": "akarammix.png",
-	"link": "http://akaram.zecast.net/akaram-live/akarammix1/playlist.m3u8",
+	"name": "DD 11",
+	"icon": "",
+	"link": "http://akaram.zec.net/akaram-live/akarammix1/playlist.m3u8",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -203,9 +203,9 @@
 	"visibility": "no",
 	"channel_id": 0
 }, {
-	"name": "Vaanavil TV",
-	"icon": "vaanavil.png",
-	"link": "http://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8",
+	"name": "DD 12",
+	"icon": "",
+	"link": "http://live.wmncdnt/vaanaviltv/live.stream/index.m3u8",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -220,9 +220,9 @@
 	"visibility": "yes",
 	"channel_id": 0
 }, {
-	"name": "Makkal TV",
-	"icon": "makkaltv.jpg",
-	"link": "http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
+	"name": "DD 13",
+	"icon": "",
+	"link": "http://5k8q87azdy4ls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -237,9 +237,9 @@
 	"visibility": "yes",
 	"channel_id": 708
 }, {
-	"name": "Vasanth TV",
-	"icon": "Vasanthtv.jpg",
-	"link": "http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f",
+	"name": "DD 14",
+	"icon": "",
+	"link": "http://vasanth.li.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -254,9 +254,9 @@
 	"visibility": "yes",
 	"channel_id": 727
 }, {
-	"name": "NTV Trichy",
-	"icon": "ntvtn.png",
-	"link": "http://185.105.4.244:1935/live/ntv/playlist.m3u8",
+	"name": "DD 15",
+	"icon": "",
+	"link": "http://185.105.4.1935/live/ntv/playlist.m3u8",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -271,9 +271,9 @@
 	"visibility": "yes",
 	"channel_id": 646
 }, {
-	"name": "Netrikgun TV",
-	"icon": "netrikgun.png",
-	"link": "http://artech.livebox.co.in/netrikguntvhls/live.m3u8",
+	"name": "DD 16",
+	"icon": "",
+	"link": "http://artech.lix.co.in/netrikguntvhls/live.m3u8",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -286,56 +286,5 @@
 	"channelCategoryId": 2,
 	"category": "Entertainment",
 	"visibility": "no",
-	"channel_id": 0
-}, {
-	"name": "Nakkubetta Ooty Tv",
-	"icon": "nakkubetta.png",
-	"link": "http://nakkubettatv.livebox.co.in/nbtvhls/nbtv.m3u8",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "",
-	"refe": "",
-	"orig": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 2,
-	"category": "Entertainment",
-	"visibility": "yes",
-	"channel_id": 0
-}, {
-	"name": "Analaiexpress",
-	"icon": "analaiexpress.png",
-	"link": "https://live.streamjo.com/sarastv/sarastv.m3u8",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "",
-	"refe": "",
-	"orig": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 3,
-	"category": "Music",
-	"visibility": "no",
-	"channel_id": 0
-}, {
-	"name": "Ragam TV",
-	"icon": "ragamtv.jpg",
-	"link": "http://account12.livebox.co.in/ntvhls/ntv.m3u8",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "",
-	"refe": "",
-	"orig": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 3,
-	"category": "Music",
-	"visibility": "yes",
 	"channel_id": 0
 }]
