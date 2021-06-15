@@ -1,6 +1,6 @@
 [{
 	"name": "Vijay TV",
-	"icon": "StarVijay.jpg",
+	"icon": "tv/StarVijay.jpg",
 	"link": "hotstar://content/1260000018",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -17,7 +17,7 @@
 	"channelId": 0
 },{
 	"name": "Sun TV HD",
-	"icon": "SunTVHD.jpg",
+	"icon": "tv/SunTVHD.jpg",
 	"link": "MWTV_LIVETVCHANNEL_966",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -34,7 +34,7 @@
 	"channelId": 0
 },{
 	"name": "KTV HD",
-	"icon": "KTVHD.jpg",
+	"icon": "tv/KTVHD.jpg",
 	"link": "136111",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -51,7 +51,7 @@
 	"channelId": 0
 },{
 	"name": "Sun Music HD",
-	"icon": "SunMusic.jpg",
+	"icon": "tv/SunMusic.jpg",
 	"link": "MWTV_LIVETVCHANNEL_961",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -68,7 +68,7 @@
 	"channelId": 0
 },{
 	"name": "Color HD Tamil",
-	"icon": "ColorsHD.jpg",
+	"icon": "tv/ColorsHD.jpg",
 	"link": "361390",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -85,7 +85,7 @@
 	"channelId": 0
 },{
 	"name": "ZeeTamil HD",
-	"icon": "ZeeTamil.jpg",
+	"icon": "tv/ZeeTamil.jpg",
 	"link": "MWTV_LIVETVCHANNEL_1010",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -102,7 +102,7 @@
 	"channelId": 0
 },{
 	"name": "Puthiya Thalaimurai",
-	"icon": "PuthiyaThalimurai.jpg",
+	"icon": "tv/PuthiyaThalimurai.jpg",
 	"link": "UCmyKnNRH0wH-r8I-ceP-dsg",
 	"drmScheme": "",
 	"drmLicense": "",
