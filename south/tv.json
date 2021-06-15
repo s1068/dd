@@ -15,7 +15,7 @@
 	"category": "Entertainment",
 	"visibility": "yes",
 	"channelId": 0
-}, {
+},{
 	"name": "Sun TV HD",
 	"icon": "tv/SunTVHD.jpg",
 	"link": "MWTV_LIVETVCHANNEL_966",
@@ -32,7 +32,7 @@
 	"category": "Entertainment",
 	"visibility": "yes",
 	"channelId": 0
-}, {
+},{
 	"name": "KTV HD",
 	"icon": "tv/KTVHD.jpg",
 	"link": "136111",
@@ -49,7 +49,7 @@
 	"category": "Entertainment",
 	"visibility": "yes",
 	"channelId": 0
-}, {
+},{
 	"name": "Sun Music HD",
 	"icon": "tv/SunMusic.jpg",
 	"link": "MWTV_LIVETVCHANNEL_961",
@@ -66,7 +66,7 @@
 	"category": "Entertainment",
 	"visibility": "yes",
 	"channelId": 0
-}, {
+},{
 	"name": "Color HD Tamil",
 	"icon": "tv/ColorsHD.jpg",
 	"link": "361390",
@@ -83,7 +83,7 @@
 	"category": "Entertainment",
 	"visibility": "yes",
 	"channelId": 0
-}, {
+},{
 	"name": "ZeeTamil HD",
 	"icon": "tv/ZeeTamil.jpg",
 	"link": "MWTV_LIVETVCHANNEL_1010",
@@ -100,7 +100,7 @@
 	"category": "Entertainment",
 	"visibility": "yes",
 	"channelId": 0
-}, {
+},{
 	"name": "Puthiya Thalaimurai",
 	"icon": "tv/PuthiyaThalimurai.jpg",
 	"link": "UCmyKnNRH0wH-r8I-ceP-dsg",
@@ -119,7 +119,7 @@
 	"channelId": 0
 }, {
 	"name": "Thanthi Tv",
-	"icon": "Thanthi.png",
+	"icon": "tv/ThanthiTV.jpg",
 	"link": "https://vidcdn.vidgyor.com/thanthi-origin/liveabr/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -136,7 +136,7 @@
 	"channelId": 830
 }, {
 	"name": "Polimer News",
-	"icon": "Polimer.png",
+	"icon": "tv/PolimerNews.jpg",
 	"link": "UC8Z-VjXBtDJTvq6aqkIskPg",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -153,7 +153,7 @@
 	"channelId": 705
 }, {
 	"name": "Jaya Plus",
-	"icon": "jayaplus.jpg",
+	"icon": "tv/jayaplus.jpg",
 	"link": "UCOP4Gbw-T1ofcW8vyL89ZDw",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -170,7 +170,7 @@
 	"channelId": 418
 }, {
 	"name": "Kalaignar Seithigal",
-	"icon": "Kalaignar.jpg",
+	"icon": "tv/KalaignarTV.jpg",
 	"link": "UCcVF2Fth-qEA4T1Lhn3CgKg",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -187,7 +187,7 @@
 	"channelId": 1209
 }, {
 	"name": "News7",
-	"icon": "tamilnews7.png",
+	"icon": "tv/News7Tamil.jpg",
 	"link": "UC2f4w_ppqHplvjiNaoTAK9w",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -204,7 +204,7 @@
 	"channelId": 673
 }, {
 	"name": "Tamil News18",
-	"icon": "tamilnews18.png",
+	"icon": "tv/News18Tamilnadu.jpg",
 	"link": "UCat88i6_rELqI_prwvjspRA",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -221,7 +221,7 @@
 	"channelId": 0
 }, {
 	"name": "NewsJ",
-	"icon": "NewsJ.png",
+	"icon": "tv/NewsJ.jpg",
 	"link": "UCsfh2Zb7-m4qzT8jLhK_Fzw",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -238,7 +238,7 @@
 	"channelId": 0
 }, {
 	"name": "Sathiyam Tv",
-	"icon": "Sathiyam.jpg",
+	"icon": "tv/SathiyamTV.jpg",
 	"link": "UC2ziCMHFPWkFHjocUMXT__Q",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -255,7 +255,7 @@
 	"channelId": 671
 }, {
 	"name": "Captain News",
-	"icon": "captainnews.jpg",
+	"icon": "tv/CaptainNews.jpg",
 	"link": "https://cdn.asianetmobiletvplus.com/channels/captainnews_cqxrkkatswnooxjbmcrordijpqpvqwkc/playlist.m3u8",
 	"drm_scheme": "",
 	"drm_license_url": "",
@@ -272,7 +272,7 @@
 	"channel_id": 645
 }, {
 	"name": "Vendhar TV",
-	"icon": "VendharTV.jpg",
+	"icon": "tv/VendharTV.jpg",
 	"link": "vendhartv",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -289,7 +289,7 @@
 	"channelId": 857
 }, {
 	"name": "Malaimurasu News",
-	"icon": "Malaimurasu.png",
+	"icon": "tv/MalaiMurasu.jpg",
 	"link": "https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
