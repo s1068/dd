@@ -1,0 +1,14 @@
+{
+	"language": [
+		"tamil",
+		"telugu",
+		"malayalam",
+		"kannada"
+	],
+	"catotegory": [
+		"news",
+		"Music",
+		"Kids",
+		"Devotional"
+	]
+}
