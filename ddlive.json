@@ -457,38 +457,4 @@
 	"category": "News",
 	"visibility": "yes",
 	"channel_id": 0
-}, {
-	"name": "Lok Sabha TV",
-	"icon": "lstv.jpg",
-	"link": "UCrXvTLS-1ye7MmZhsi_cpOQ",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "",
-	"refe": "",
-	"orig": "",
-	"cook": "17",
-	"source": "ytc",
-	"channelLanguageId": 1,
-	"lang": "Hindi",
-	"channelCategoryId": 1,
-	"category": "News",
-	"visibility": "yes",
-	"channel_id": 0
-}, {
-	"name": "Rajya Sabha TV",
-	"icon": "RajyaSabha.jpg",
-	"link": "UCISgnSNwqQ2i8lhCun3KtQg",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "",
-	"refe": "",
-	"orig": "",
-	"cook": "17",
-	"source": "ytc",
-	"channelLanguageId": 1,
-	"lang": "Hindi",
-	"channelCategoryId": 1,
-	"category": "News",
-	"visibility": "yes",
-	"channel_id": 0
 }]
