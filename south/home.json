@@ -16,6 +16,23 @@
 	"visibility": "yes",
 	"channelId": 528
 }, {
+	"name": "DD India",
+	"icon": "ddindia.jpg",
+	"link": "https://dai.google.com/linear/hls/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8?hlsplay1",
+	"drmScheme": "",
+	"drmLicense": "",
+	"userAgent": "KAIOS",
+	"refer": "",
+	"origin": "",
+	"cook": "",
+	"source": "ytc",
+	"channelLanguageId": 5,
+	"lang": "English",
+	"channelCategoryId": 1,
+	"category": "News",
+	"visibility": "yes",
+	"channelId": 528
+},{
 	"name": "DD Yadagiri",
 	"icon": "ddyadagiri.png",
 	"link": "0-9-ddyadagiri",
