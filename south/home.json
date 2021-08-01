@@ -18,18 +18,18 @@
 }, {
 	"name": "DD India",
 	"icon": "ddindia.jpg",
-	"link": "https://dai.google.com/linear/hls/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8?hlsplay1",
+	"link": "7356",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "KAIOS",
 	"refer": "",
 	"origin": "",
 	"cook": "",
-	"source": "dd",
+	"source": "ghd",
 	"channelLanguageId": 5,
 	"lang": "English",
-	"channelCategoryId": 1,
-	"category": "News",
+	"channelCategoryId": 5,
+	"category": "Sports",
 	"visibility": "yes",
 	"channelId": 528
 },{
