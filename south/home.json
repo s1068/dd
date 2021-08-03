@@ -16,8 +16,8 @@
 	"visibility": "yes",
 	"channelId": 528
 }, {
-	"name": "DD India",
-	"icon": "ddindia.jpg",
+	"name": "Sony Six",
+	"icon": "",
 	"link": "7356",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -31,8 +31,8 @@
 	"channelCategoryId": 5,
 	"category": "Sports",
 	"visibility": "yes",
-	"channelId": 528
-},{
+	"channelId": 0
+}, {
 	"name": "DD Yadagiri",
 	"icon": "ddyadagiri.png",
 	"link": "0-9-ddyadagiri",
@@ -205,10 +205,10 @@
 }, {
 	"name": "7S Music",
 	"icon": "7music.jpg",
-	"link": "http://cdn.asianetmobiletvplus.com/channels/sevensmusic_ujsykhjdcipckiqidfpejqukrskxuutm/playlist.m3u8",
+	"link": "http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8",
 	"drm_scheme": "",
 	"drm_license_url": "",
-	"us_ag": "media-proto-android/1.1.1 (Linux;Android 10) ExoPlayerLib/2.9.6",
+	"us_ag": "",
 	"refe": "",
 	"orig": "",
 	"cook": "",
@@ -288,23 +288,6 @@
 	"visibility": "no",
 	"channelId": 0
 }, {
-	"name": "Nakkubetta Ooty Tv",
-	"icon": "nakkubetta.png",
-	"link": "http://nakkubettatv.livebox.co.in/nbtvhls/nbtv.m3u8",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "",
-	"refer": "",
-	"origin": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 2,
-	"category": "Entertainment",
-	"visibility": "yes",
-	"channelId": 0
-}, {
 	"name": "Analaiexpress",
 	"icon": "analaiexpress.png",
 	"link": "https://live.streamjo.com/sarastv/sarastv.m3u8",
@@ -358,7 +341,7 @@
 }, {
 	"name": "Kalai ISAI",
 	"icon": "kalaiisai.png",
-	"link": "http://singamcloud.in:1935/kalaiisai/kalaiisai/playlist.m3u8",
+	"link": "http://singamcloud.in:1935/kalai/kalaiisai/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -375,7 +358,7 @@
 }, {
 	"name": "Kalai Cinima",
 	"icon": "kalaichinema.png",
-	"link": "http://singamcloud.in:1935/kalaicinema/kalaicinema/playlist.m3u8",
+	"link": "http://live.singamcloud.in:6931/srtsingamcloud/srt.stream/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
