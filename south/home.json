@@ -1308,23 +1308,6 @@
 	"visibility": "yes",
 	"channelId": 0
 }, {
-	"name": "Mahaa News",
-	"icon": "telugumahaanews.jpg",
-	"link": "UCB30zQrOJNBeKerHAqvL03g",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "ddnetwork",
-	"refer": "",
-	"origin": "",
-	"cook": "",
-	"source": "ytc",
-	"channelLanguageId": 4,
-	"lang": "Telugu",
-	"channelCategoryId": 1,
-	"category": "News",
-	"visibility": "yes",
-	"channelId": 0
-}, {
 	"name": "99TV telugu",
 	"icon": "telugu99tv.jpg",
 	"link": "UCl5YgCiwSRVOiC2Nd1P9v1A",
@@ -1359,23 +1342,6 @@
 	"visibility": "yes",
 	"channelId": 0
 }, {
-	"name": "ETV Bharath Andhra",
-	"icon": "teluguetvnewsAndhra.jpg",
-	"link": "https://d1lqvjyfwvyj07.cloudfront.net/out/v1/d54651fa806648719a92727a661fa0d0/ETVB_CF_AP_NewsTime_1.m3u8",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "ddnetwork",
-	"refer": "",
-	"origin": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 4,
-	"lang": "Telugu",
-	"channelCategoryId": 1,
-	"category": "News",
-	"visibility": "yes",
-	"channelId": 614
-}, {
 	"name": "ETV Bharath Telangana",
 	"icon": "teluguetvnewsTelangana.jpg",
 	"link": "UC6ickpgDIsltU_-8CbZaksQ",
@@ -1392,23 +1358,6 @@
 	"category": "News",
 	"visibility": "yes",
 	"channelId": 630
-}, {
-	"name": "Bharat Today",
-	"icon": "teluguBharatnews.jpg",
-	"link": "bharat-today",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "ddnetwork",
-	"refer": "",
-	"origin": "",
-	"cook": "",
-	"source": "yup",
-	"channelLanguageId": 4,
-	"lang": "Telugu",
-	"channelCategoryId": 1,
-	"category": "News",
-	"visibility": "yes",
-	"channelId": 0
 }, {
 	"name": "Vanitha TV",
 	"icon": "teluguVanitha.jpg",
@@ -1702,23 +1651,6 @@
 	"name": "RT News",
 	"icon": "RussiaTodaynews.jpg",
 	"link": "UCpwvZwUam-URkxB7g4USKpg",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "",
-	"refer": "",
-	"origin": "",
-	"cook": "",
-	"source": "ytc",
-	"channelLanguageId": 5,
-	"lang": "English",
-	"channelCategoryId": 1,
-	"category": "News",
-	"visibility": "yes",
-	"channelId": 0
-}, {
-	"name": "Comedy Central UK",
-	"icon": "ComedyCentralUK.jpg",
-	"link": "UCsv4YOF2RBYh0NQ1vuHQ-hg",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -2158,23 +2090,6 @@
 	"visibility": "yes",
 	"channelId": 0
 }, {
-	"name": "Alpha tv",
-	"icon": "alphatv.png",
-	"link": "http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/alphatv-6uwsJuY4HUVMP-stream/index.m3u8",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "",
-	"refer": "",
-	"origin": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 6,
-	"category": "Devotional",
-	"visibility": "yes",
-	"channelId": 0
-}, {
 	"name": "Vinmeen music",
 	"icon": "vinmeen.jpg",
 	"link": "http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8",
@@ -2361,23 +2276,6 @@
 	"category": "Entertainment",
 	"visibility": "yes",
 	"channelId": 0
-}, {
-	"name": "PeopleTV Malayalam",
-	"icon": "PeopleTV.png",
-	"link": "https://cdn.asianetmobiletvplus.com/channels/peopletv_ilaymuogsnybovslwybrvzzlsgoiowax/playlist.m3u8",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "media-proto-android/1.1.1 (Linux;Android 10) ExoPlayerLib/2.9.6",
-	"refer": "",
-	"origin": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 2,
-	"lang": "Malayalam",
-	"channelCategoryId": 1,
-	"category": "News",
-	"visibility": "yes",
-	"channelId": 725
 }, {
 	"name": "KappaTV",
 	"icon": "kappa.png",
