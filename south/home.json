@@ -407,6 +407,23 @@
 	"visibility": "yes",
 	"channelId": 0
 }, {
+	"name": "Athavan HD",
+	"icon": "",
+	"link": "athavan-tv-hd",
+	"drmScheme": "",
+	"drmLicense": "",
+	"userAgent": "",
+	"refer": "https://www.yupptv.com/",
+	"origin": "https://www.yupptv.com",
+	"cook": "",
+	"source": "yup",
+	"channelLanguageId": 1,
+	"lang": "Tamil",
+	"channelCategoryId": 2,
+	"category": "Entertainment",
+	"visibility": "yes",
+	"channelId": 0
+}, {
 	"name": "RASI MUSIC",
 	"icon": "",
 	"link": "http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8",
