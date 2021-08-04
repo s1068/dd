@@ -1,4 +1,21 @@
 [{
+	"name": "NewsJ",
+	"icon": "NewsJ.png",
+	"link": "UCsfh2Zb7-m4qzT8jLhK_Fzw",
+	"drmScheme": "",
+	"drmLicense": "",
+	"userAgent": "",
+	"refer": "",
+	"origin": "",
+	"cook": "",
+	"source": "ytc",
+	"channelLanguageId": 1,
+	"lang": "Tamil",
+	"channelCategoryId": 1,
+	"category": "News",
+	"visibility": "yes",
+	"channelId": 0
+},{
 	"name": "DD India",
 	"icon": "ddindia.jpg",
 	"link": "UCGDQNvybfDDeGTf4GtigXaw",
