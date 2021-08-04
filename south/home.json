@@ -866,6 +866,23 @@
 	"visibility": "yes",
 	"channelId": 0
 }, {
+	"name": "Sun News",
+	"icon": "sunnews.png",
+	"link": "UCYlh4lH762HvHt6mmiecyWQ",
+	"drmScheme": "",
+	"drmLicense": "",
+	"userAgent": "",
+	"refer": "",
+	"origin": "",
+	"cook": "",
+	"source": "ytc",
+	"channelLanguageId": 1,
+	"lang": "Tamil",
+	"channelCategoryId": 1,
+	"category": "News",
+	"visibility": "yes",
+	"channelId": 705
+}, {
 	"name": "Puthiya Thalaimurai",
 	"icon": "PuthiyaThalaimurai.jpg",
 	"link": "UCmyKnNRH0wH-r8I-ceP-dsg",
