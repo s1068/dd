@@ -1,25 +1,25 @@
 [{
-	"SubjectName": "ENGLISH",
+	"SubjectName": "English",
 	"SubjectCode": "TA1A",
 	"link": ""
 }, {
-	"SubjectName": "JURISPRUDENCE",
+	"SubjectName": "Jurisprudence",
 	"SubjectCode": "TA1B",
 	"link": ""
 }, {
-	"SubjectName": "LAW OF CONTRACTS - I",
+	"SubjectName": "Law of Contracts - I",
 	"SubjectCode": "TA1C",
 	"link": ""
 }, {
-	"SubjectName": "LAW OF TORTS",
+	"SubjectName": "Law of Torts",
 	"SubjectCode": "TA1D",
 	"link": ""
 }, {
-	"SubjectName": "FAMILY LAW - I",
+	"SubjectName": "Family Law - I",
 	"SubjectCode": "TA1E",
 	"link": ""
 }, {
-	"SubjectName": "LAW OF CRIMES",
+	"SubjectName": "Law of Crimes",
 	"SubjectCode": "TA1F",
 	"link": ""
 }]
