@@ -1,0 +1,25 @@
+[{
+	"SubjectName": "English",
+	"SubjectCode": "TA1A",
+	"link": ""
+}, {
+	"SubjectName": "Jurisprudence",
+	"SubjectCode": "TA1B",
+	"link": ""
+}, {
+	"SubjectName": "Law of Contracts - I",
+	"SubjectCode": "TA1C",
+	"link": ""
+}, {
+	"SubjectName": "Law of Torts",
+	"SubjectCode": "TA1D",
+	"link": ""
+}, {
+	"SubjectName": "Family Law - I",
+	"SubjectCode": "TA1E",
+	"link": ""
+}, {
+	"SubjectName": "Law of Crimes",
+	"SubjectCode": "TA1F",
+	"link": ""
+}]
