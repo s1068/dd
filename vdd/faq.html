@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Frequently Asked Questions</title>
+ <script src="https://edata.ndtv.com/budget/2020/static/js/jquery-1.js?ver=1.1"></script>
+ <script type="text/javascript">
+  function querySt(e) {
+          hu = window.location.search.substring(1).split("&");
+          for (i = 0; i < hu.length; i++) {
+              ft = hu[i].split("=");
+              if (ft[0] == e) {
+                  return ft[1]
+              }
+          }
+      }
+</script> 
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap" rel="stylesheet">
+<style type="text/css">
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  font-family: Roboto, sans-serif;
+}
+.nshp_widget_boxwrap { padding:10px; box-sizing: border-box; }
+#acc_id ul {
+  padding: 0 0 0 10px;
+  margin: 0 0 0 8px;
+  color: #333;
+  font-size: 18px;
+  line-height: 22px;
+  list-style: disc;
+}
+.nshp_tg_cont {
+  width: 100%;
+  box-sizing: border-box;
+  position: relative;
+}
+.acr_coman_div {
+  margin: 0;
+  padding: 1px 0 1px 0;
+  float: left;
+  width: 100%
+}
+.acr_content p {
+  margin: 0;
+  padding: 15px 0 0;
+}
+.title_div {
+  font-weight: 500;
+}
+.title_div {
+  display: block;
+  padding: 10px 30px 10px 10px;
+  margin-bottom: 0px;
+  position: relative;
+  line-height: 19px;
+  background: #fbfbfb !important;
+  color: #333;
+  cursor: pointer;
+  border-radius: 3px;
+  font-weight: 600;
+  font-size:17px;
+}
+.title_div span {
+  display: block;
+  position: absolute;
+  right: 5px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  border: solid 1px #9a9a9a;
+  border-radius: 50%;
+  transform: translateY(-50%);
+}
+.title_div span:after {
+  content: "";
+  content: "";
+  width: 11px;
+  height: 1px;
+  background-color: #9a9a9a;
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  margin: -1px auto 0px auto;
+}
+.title_div span:before {
+  content: "";
+  width: 1px;
+  height: 10px;
+  background-color: #9a9a9a;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translateY(-50%);
+  display: block;
+}
+.title_div.active span:before {
+  display: none;
+}
+.acr_content {
+  display: none;
+  padding: 10px;
+  font-size: 17px;
+  font-weight: 400;
+  color: #333;
+  line-height: 1.5;
+}
+.acr_content .ul_ttl {
+  margin: 20px 0 6px;
+  font-weight: 600;
+  border-bottom: 1px solid #e5ebf3;
+  padding: 0 0 8px 0;
+  color: #6f839c;
+}
+.top_info {
+  padding: 15px 0;
+  font-size: 18px;
+  margin: 0;
+}
+
+@media(prefers-color-scheme:dark) {
+body {
+  background: #242424;
+}
+body .nshp_rhswidget_mid {
+  color: #afafaf;
+}
+body .title_div.odd {
+  background: #3e3e3e !important;
+  color: #afafaf;
+  border-top: 1px solid #252525;
+  border-bottom: 1px solid #252525;
+}
+body .title_div.even {
+  background: #2b2b2b !important;
+  color: #afafaf;
+}
+
+body .title_div.active span {
+  background-position: -4px -3px;
+}
+body .acr_content {color: #afafaf;}
+}
+
+
+/* ===== DARK thehe CSS start =====*/
+
+
+
+
+.dark-theme {
+  background: #242424;
+}
+.dark-theme .nshp_rhswidget_mid {
+  color: #afafaf;
+}
+.dark-theme .title_div.odd {
+  background: #3e3e3e !important;
+  color: #afafaf;
+  border-top: 1px solid #252525;
+  border-bottom: 1px solid #252525;
+}
+.dark-theme .title_div.even {
+  background: #2b2b2b !important;
+  color: #afafaf;
+}
+
+.dark-theme .title_div.active span {
+  background-position: -4px -3px;
+}
+.dark-theme .acr_content {color: #afafaf;}
+
+
+
+
+
+
+@media (max-width: 500px) {
+.title_div.even, .title_div.odd {
+  font-size: 17px;
+}
+.acr_content p {
+  padding: 10px 0 0;
+  font-size: 17px;
+  font-weight: 400;
+  color: #333;
+  line-height: 1.4;
+}
+.top_info {
+  font-size: 16px;
+  line-height: 22px;
+}
+}
+</style>
+</head>
+
+<body class="">
+<div id="acc_id" class="nshp_widget_boxwrap">
+  <div class="nshp_rhswidget_mid">
+    <div class="nshp_topstory_box">
+      <div class="nshp_tg_cont" id="searchPanel">
+        <div class="accrodion_box">
+          <div class="acr_coman_div">
+            <div class="title_div odd active"><span></span>What are minimum requirements to install this App</div>
+            <div class="acr_content open" style="display: block;"> Minimum android version for android app is v4.4(Kitkat) to latest</div>
+          </div>
+          <div class="acr_coman_div">
+            <div class="title_div even "><span></span>Player control Features</div>
+            <div class="acr_content " style="display:none;"> You can use swipe up and down to increase Brightness and Volume. you can swipe left to right to fast forward. </div>
+          </div>
+          <div class="acr_coman_div">
+            <div class="title_div odd "><span></span>Video Quality, Speed and Screen Resolution</div>
+            <div class="acr_content " style="display:none;"> Video Quality and speed is depends on your internet speed or else you can choose quality settings from the player. You can change screen Resolution from player "FIT" </div>
+          </div>
+          <div class="acr_coman_div">
+            <div class="title_div even "><span></span>Does this app support Android TV/ Firestick</div>
+            <div class="acr_content " style="display:none;"> Yes, This same app supports Android TV, firesticks and Android box  </div>
+          </div>
+          <div class="acr_coman_div">
+            <div class="title_div odd "><span></span>How can i get support when i have problem?</div>
+            <div class="acr_content " style="display:none;"> Drop us an email at ddnetwork@protonmail.com. </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<script>
+        $(document).ready(function () {
+            $('#inpSearch').keyup(function () {
+                var valThis = $(this).val().toLowerCase();
+                if (valThis == "") {
+                    $('.acr_coman_div').find('div.title_div').removeClass('active');
+                    $('div.acr_coman_div').show();
+                    $('div.acr_content').hide();
+
+                    //$('.acr_coman_div').closest('div.title_div').addClass("AAA");
+                } else {
+                    $('div.acr_coman_div').each(function () {
+                        $('.acr_coman_div').find('div.title_div').addClass('active');
+                        $('div.acr_content').show();
+                        var text = $(this).text().toLowerCase();
+                        (text.indexOf(valThis) >= 0) ? $(this).show() : $(this).hide();
+                    });
+                }
+                ;
+            });
+            $(".acr_content.open").slideDown();
+            //if you don't want first div open then remove this line
+            //$(".title_div:first").addClass('active');
+
+            $("#acc_id .title_div").click(function () {
+                $('#acc_id .acr_content').slideUp();
+                $('#acc_id .title_div').removeClass('active')
+                if ($(this).next().is(":visible")) {
+                    $(this).next().slideUp();
+                } else {
+                    $(this).next().slideDown();
+                    $(this).addClass('active')
+                }
+            });
+        });
+
+        $('#search-block span').click(function () {
+            $('#inpSearch').val("");
+            $('.acr_coman_div').show();
+            $('div.acr_content').hide();
+            $('.acr_coman_div').find('div.title_div').removeClass('active');
+            $('.nshp_tg_cont').find('em').attr("style", "");
+         });
+
+
+
+$(document).ready(function() {
+$(".acr_coman_div:last-child .title_div").click(function() {
+    $('html,body').animate({scrollTop: $(".acr_coman_div:last-child .acr_content").offset().top},'slow');
+    });
+});
+
+
+    </script>
+    <script type="text/javascript">
+      var dmode = querySt("dm") || 0;
+      if(dmode==1) { $('body').addClass('dark-theme'); }         
+  </script>
+
+
+</body>
+</html>
