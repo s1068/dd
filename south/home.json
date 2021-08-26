@@ -305,23 +305,6 @@
 	"visibility": "yes",
 	"channelId": 0
 }, {
-	"name": "Aasai TV",
-	"icon": "aasaitv.jpg",
-	"link": "http://osaitv.livebox.co.in/osaihls/live.m3u8",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "",
-	"refer": "",
-	"origin": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 2,
-	"category": "Entertainment",
-	"visibility": "yes",
-	"channelId": 0
-}, {
 	"name": "Kalai ISAI",
 	"icon": "kalaiisai.png",
 	"link": "http://singamcloud.in:1935/kalai/kalaiisai/playlist.m3u8",
@@ -644,23 +627,6 @@
 	"category": "Entertainment",
 	"visibility": "yes",
 	"channelId": 847
-}, {
-	"name": "Moon TV",
-	"icon": "moontv.jpeg",
-	"link": "http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "",
-	"refer": "",
-	"origin": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 2,
-	"category": "Entertainment",
-	"visibility": "yes",
-	"channelId": 0
 }, {
 	"name": "3Tamil TV",
 	"icon": "3tamiltv.png",
