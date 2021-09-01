@@ -2646,8 +2646,8 @@
 	"source": "twitch",
 	"channelLanguageId": 1,
 	"lang": "Tamil",
-	"channelCategoryId": 2,
-	"category": "Entertainment",
-	"visibility": "yes",
+  "channelCategoryId": 3,
+	"category": "Music",
+	"visibility": "no",
 	"channelId": 0
 }]
