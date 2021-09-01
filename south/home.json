@@ -1,23 +1,6 @@
 [{
 	"name": "DD India",
 	"icon": "ddindia.jpg",
-	"link": "ctv_tamil",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "",
-	"refer": "",
-	"origin": "",
-	"cook": "",
-	"source": "twitch",
-	"channelLanguageId": 5,
-	"lang": "English",
-	"channelCategoryId": 1,
-	"category": "News",
-	"visibility": "yes",
-	"channelId": 528
-},{
-	"name": "DD India",
-	"icon": "ddindia.jpg",
 	"link": "UCGDQNvybfDDeGTf4GtigXaw",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -2633,7 +2616,7 @@
 	"category": "Sports",
 	"visibility": "no",
 	"channelId": 0
-},{
+}, {
 	"name": "Sony Six",
 	"icon": "",
 	"link": "7356",
@@ -2649,5 +2632,22 @@
 	"channelCategoryId": 5,
 	"category": "Sports",
 	"visibility": "no",
+	"channelId": 0
+}, {
+	"name": "Analai Express",
+	"icon": "",
+	"link": "eyetamil",
+	"drmScheme": "",
+	"drmLicense": "",
+	"userAgent": "",
+	"refer": "",
+	"origin": "",
+	"cook": "",
+	"source": "yup",
+	"channelLanguageId": 1,
+	"lang": "Tamil",
+	"channelCategoryId": 2,
+	"category": "Entertainment",
+	"visibility": "yes",
 	"channelId": 0
 }]
