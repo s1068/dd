@@ -358,7 +358,7 @@
 }, {
 	"name": "RASI TV",
 	"icon": "",
-	"link": "http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8",
+	"link": "https://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
