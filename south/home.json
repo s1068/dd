@@ -137,7 +137,7 @@
 }, {
 	"name": "TVI TV",
 	"icon": "tvihd.png",
-	"link": "http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8",
+	"link": "https://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -154,7 +154,7 @@
 }, {
 	"name": "Santhora TV",
 	"icon": "santhoratv.jpg",
-	"link": "http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8",
+	"link": "https://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -171,7 +171,7 @@
 }, {
 	"name": "Akaram TV",
 	"icon": "akaramtv.png",
-	"link": "http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8",
+	"link": "https://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -188,7 +188,7 @@
 }, {
 	"name": "Akaram Mix",
 	"icon": "akarammix.png",
-	"link": "http://akaram.zecast.net/akaram-live/akarammix1/playlist.m3u8",
+	"link": "https://akaram.zecast.net/akaram-live/akarammix1/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -205,7 +205,7 @@
 }, {
 	"name": "7S Music",
 	"icon": "7music.jpg",
-	"link": "http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8",
+	"link": "https://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -222,7 +222,7 @@
 }, {
 	"name": "Makkal TV",
 	"icon": "makkaltv.jpg",
-	"link": "http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
+	"link": "https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -239,7 +239,7 @@
 }, {
 	"name": "Vasanth TV",
 	"icon": "Vasanthtv.jpg",
-	"link": "http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f",
+	"link": "https://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -256,7 +256,7 @@
 }, {
 	"name": "NTV Trichy",
 	"icon": "ntvtn.png",
-	"link": "http://185.105.4.244:1935/live/ntv/playlist.m3u8",
+	"link": "https://185.105.4.244:1935/live/ntv/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -273,7 +273,7 @@
 }, {
 	"name": "Netrikgun TV",
 	"icon": "netrikgun.png",
-	"link": "http://artech.livebox.co.in/netrikguntvhls/live.m3u8",
+	"link": "https://artech.livebox.co.in/netrikguntvhls/live.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -307,7 +307,7 @@
 }, {
 	"name": "Ragam TV",
 	"icon": "ragamtv.jpg",
-	"link": "http://account12.livebox.co.in/ntvhls/ntv.m3u8",
+	"link": "https://account12.livebox.co.in/ntvhls/ntv.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -324,7 +324,7 @@
 }, {
 	"name": "Kalai ISAI",
 	"icon": "kalaiisai.png",
-	"link": "http://singamcloud.in:1935/kalai/kalaiisai/playlist.m3u8",
+	"link": "https://singamcloud.in:1935/kalai/kalaiisai/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -341,7 +341,7 @@
 }, {
 	"name": "Kalai Cinima",
 	"icon": "kalaichinema.png",
-	"link": "http://live.singamcloud.in:6931/srtsingamcloud/srt.stream/playlist.m3u8",
+	"link": "https://live.singamcloud.in:6931/srtsingamcloud/srt.stream/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -375,7 +375,7 @@
 }, {
 	"name": "RASI TAMIL",
 	"icon": "",
-	"link": "http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8",
+	"link": "https://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -409,7 +409,7 @@
 }, {
 	"name": "RASI MUSIC",
 	"icon": "",
-	"link": "http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8",
+	"link": "https://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -426,7 +426,7 @@
 }, {
 	"name": "RASI MOVIES",
 	"icon": "",
-	"link": "http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8",
+	"link": "https://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -443,7 +443,7 @@
 }, {
 	"name": "RASI CLASSIC",
 	"icon": "",
-	"link": "http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8",
+	"link": "https://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -460,7 +460,7 @@
 }, {
 	"name": "RASI HINDI",
 	"icon": "",
-	"link": "http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8",
+	"link": "https://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -613,7 +613,7 @@
 }, {
 	"name": "Ultramax TV",
 	"icon": "utvhd.jpg",
-	"link": "http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8",
+	"link": "https://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -630,7 +630,7 @@
 }, {
 	"name": "MK TV",
 	"icon": "mktv.png",
-	"link": "http://103.199.160.85:80/Content/mktv/Live/Channel(MKTV)/Stream(02)/index.m3u8",
+	"link": "https://103.199.160.85:80/Content/mktv/Live/Channel(MKTV)/Stream(02)/index.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -2194,7 +2194,7 @@
 }, {
 	"name": "Faith Tv",
 	"icon": "faithtv.png",
-	"link": "http://faithtvlive.livebox.co.in/faithtvhls/live.m3u8",
+	"link": "https://faithtvlive.livebox.co.in/faithtvhls/live.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -2211,7 +2211,7 @@
 }, {
 	"name": "Ark Tv",
 	"icon": "",
-	"link": "http://mediastreamer.7starcloud.com:1935/arktv/arktv/playlist.m3u8",
+	"link": "https://mediastreamer.7starcloud.com:1935/arktv/arktv/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -2228,7 +2228,7 @@
 }, {
 	"name": "Nijam Tv",
 	"icon": "Nijamtv.jpg",
-	"link": "http://livematrix.in:1935/nijamtv/nijamtv/playlist.m3u8",
+	"link": "https://livematrix.in:1935/nijamtv/nijamtv/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -2245,7 +2245,7 @@
 }, {
 	"name": "Alpha tv",
 	"icon": "alphatv.png",
-	"link": "http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/alphatv-6uwsJuY4HUVMP-stream/index.m3u8",
+	"link": "https://site1.ultramaxnet.com/client/hls/namma-ooru-tv/alphatv-6uwsJuY4HUVMP-stream/index.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -2262,7 +2262,7 @@
 }, {
 	"name": "Vinmeen music",
 	"icon": "vinmeen.jpg",
-	"link": "http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8",
+	"link": "https://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -2279,7 +2279,7 @@
 }, {
 	"name": "Mahimai tv",
 	"icon": "Mahimai.png",
-	"link": "http://livematrix.in:1935/mahimaitv/mahimaitv/playlist.m3u8",
+	"link": "https://livematrix.in:1935/mahimaitv/mahimaitv/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -2296,7 +2296,7 @@
 }, {
 	"name": "Blessing Tv",
 	"icon": "",
-	"link": "http://199.168.96.106:1935/blessingtv-tamillive/mystream/playlist.m3u8",
+	"link": "https://199.168.96.106:1935/blessingtv-tamillive/mystream/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -2330,7 +2330,7 @@
 }, {
 	"name": "Life TV Plus",
 	"icon": "",
-	"link": "http://lifetv.livebox.co.in/lifetvtamilhls/live.m3u8",
+	"link": "https://lifetv.livebox.co.in/lifetvtamilhls/live.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -2381,7 +2381,7 @@
 }, {
 	"name": "Heaven TV India",
 	"icon": "",
-	"link": "http://209.58.160.179/heaventvhls/live.m3u8",
+	"link": "https://209.58.160.179/heaventvhls/live.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -2398,7 +2398,7 @@
 }, {
 	"name": "Joy TV",
 	"icon": "",
-	"link": "http://joytv.livebox.co.in/joytvhls/live.m3u8",
+	"link": "https://joytv.livebox.co.in/joytvhls/live.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -2500,7 +2500,7 @@
 }, {
 	"name": "AmritaTV",
 	"icon": "amritatv.png",
-	"link": "http://dr1zhpsuem5f4.cloudfront.net/master.m3u8",
+	"link": "https://dr1zhpsuem5f4.cloudfront.net/master.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "media-proto-android/1.1.1 (Linux;Android 10) ExoPlayerLib/2.9.6",
@@ -2517,7 +2517,7 @@
 }, {
 	"name": "Kaumudy",
 	"icon": "kaumudy.png",
-	"link": "http://live.wmncdn.net/kaumuditv1/live.stream/playlist.m3u8",
+	"link": "https://live.wmncdn.net/kaumuditv1/live.stream/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "media-proto-android/1.1.1 (Linux;Android 10) ExoPlayerLib/2.9.6",
@@ -2602,7 +2602,7 @@
 }, {
 	"name": "UTV PKD",
 	"icon": "utv.png",
-	"link": "http://live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/index.m3u8",
+	"link": "https://live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/index.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -2648,6 +2648,6 @@
 	"lang": "Tamil",
   "channelCategoryId": 3,
 	"category": "Music",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0
 }]
