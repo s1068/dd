@@ -1478,23 +1478,6 @@
 	"visibility": "yes",
 	"channelId": 630
 }, {
-	"name": "Bharat Today",
-	"icon": "teluguBharatnews.jpg",
-	"link": "bharat-today",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "ddnetwork",
-	"refer": "",
-	"origin": "",
-	"cook": "",
-	"source": "yup",
-	"channelLanguageId": 4,
-	"lang": "Telugu",
-	"channelCategoryId": 1,
-	"category": "News",
-	"visibility": "yes",
-	"channelId": 0
-}, {
 	"name": "Vanitha TV",
 	"icon": "teluguVanitha.jpg",
 	"link": "UCTcH-GOkexQHWKBWSfOjhPQ",
