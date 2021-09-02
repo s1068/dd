@@ -1,23 +1,6 @@
 [{
 	"name": "DD India",
 	"icon": "ddindia.jpg",
-	"link": "https://livevoot-i.akamaihd.net/dash/live/828537/colorstamilhd/master.mpd",
-	"drmScheme": "widevine",
-	"drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOQ2V1bHN0eGdRd2l3eGtTRTNDUFozZXNLa1lOYTBUYWljTFluRjVUX2NZQkRUTFlDOU51Wldwdmx1NUcxd21VSVBlYjRRYkdMUVNzQnpsb3FkeXF4R2laM3UzVjFfQzB0aXRSN3FLMWtOd1otN0F3RWNieTY4WmVGeFdzTTJpYWYzQms2V18taUY2Wnp6U0ZHWWVXaEMzdEpIUmdKT0taWDNyemNkS1h0UHVBQXRpdzJUWWxUY1paTk1DUU4xSXhCZVBZeGE2UTVqWGNTOHRPQkJ4OVBYSnZtdkR4SXVNakVZaWNuSF9vcktEZXF6a0hhWTdlZ2hUMXJlU1NLZFFjY0dQdkNXNnhfQTRHSWhCWUd6elpUeWVyYlp6Q201cWJDLXp5c3RKYklZTEZyWFhpNWh5ZmVJVVRhUlZhTnBoc1luWUlKdzhBbzZVSE5iWXpJUGRGMF9iR2tHLVVDQnliR3NRNG52QzRZMTM1ajJsM0p3RkVsb2NrLUtER0lERng1VU44UTltallicHJLQVh1VnBYLUxQYW5MZ0FFZG5RenVIWFFGTEZrQmNHTENuX3dMamZkSWg3Mm9MTURKOER4dVllMDl1VFgwalVXb0hjTEgtM0ZjeTJINjgtbEUzenF5dXY2dkpBRkZNQ3RKYUtNelVNMUxQcGt4Q0ExUWxCME1Qc3RoQ0tocy1RSTY3UkNldHpVTVk9JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODk0NjQwOCIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjb2xvcnN0YW1pbGhkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZOQ2V1bHN0eGdRd2l3eGtTRTNDUFozZXNLa1lOYTBUYWljTFluRjVUX2NZQkRUTFlDOU51Wldwdmx1NUcxd21VSVBlYjRRYkdMUVNzQnpsb3FkeXF4R2laM3UzVjFfQzB0aXRSN3FLMWtOd1otN0F3RWNieTY4WmVGeFdzTTJpYWYzQms2V18taUY2Wnp6U0ZHWWVXaEMzdEpIUmdKT0taWDNyemNkS1h0UHVBQXRpdzJUWWxUY1paTk1DUU4xSXhCZVBZeGE2UTVqWGNTOHRPQkJ4OVBYSnZtdkR4SXVNakVZaWNuSF9vcktEZXF6a0hhWTdlZ2hUMXJlU1NLZFFjY0dQdkNXNnhfQTRHSWhCWUd6elpUeWVyYlp6Q201cWJDLXp5c3RKYklZTEZyWFhpNWh5ZmVJVVRhUlZhTnBoc1luWUlKdzhBbzZVSE5iWXpJUGRGMF9iR2tHLVVDQnliR3NRNG52QzRZMTM1ajJsM0p3RkVsb2NrLUtER0lERng1VU44UTltallicHJLQVh1VnBYLUxQYW5MZ0FFZG5RenVIWFFGTEZrQmNHTENuX3dMamZkSWg3Mm9MTURKOER4dVllMDl1VFgwalVXb0hjTEgtM0ZjeTJINjgtbEUzenF5dXY2dkpBRkZNQ3RKYUtNelVNMUxQcGt4Q0ExUWxCME1Qc3RoQ0tocy1RSTY3UkNldHpVTVk9IiwidWRpZCI6ImU3ODM2YWUyMWFjOTRjYjRiMDc4ZjI2ZDY5NDI3NGE5IiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=2XUbpbOJdGEo%2bAfGnOZ0b8OA1L0%3d",
-	"userAgent": "",
-	"refer": "",
-	"origin": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 5,
-	"lang": "English",
-	"channelCategoryId": 1,
-	"category": "News",
-	"visibility": "no",
-	"channelId": 528
-},{
-	"name": "DD India",
-	"icon": "ddindia.jpg",
 	"link": "UCGDQNvybfDDeGTf4GtigXaw",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -118,6 +101,23 @@
 	"visibility": "yes",
 	"channelId": 0
 }, {
+	"name": "Sony Six",
+	"icon": "",
+	"link": "7356",
+	"drmScheme": "",
+	"drmLicense": "",
+	"userAgent": "KAIOS",
+	"refer": "",
+	"origin": "",
+	"cook": "",
+	"source": "ghd",
+	"channelLanguageId": 5,
+	"lang": "English",
+	"channelCategoryId": 5,
+	"category": "Sports",
+	"visibility": "yes",
+	"channelId": 0
+},{
 	"name": "EET TV",
 	"icon": "eetv.png",
 	"link": "https://eu.streamjo.com/eetlive/eettv.m3u8",
@@ -2634,23 +2634,6 @@
 	"visibility": "no",
 	"channelId": 0
 }, {
-	"name": "Sony Six",
-	"icon": "",
-	"link": "7356",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "KAIOS",
-	"refer": "",
-	"origin": "",
-	"cook": "",
-	"source": "ghd",
-	"channelLanguageId": 5,
-	"lang": "English",
-	"channelCategoryId": 5,
-	"category": "Sports",
-	"visibility": "no",
-	"channelId": 0
-}, {
 	"name": "Analai Express",
 	"icon": "",
 	"link": "eyetamil",
@@ -2665,6 +2648,6 @@
 	"lang": "Tamil",
   "channelCategoryId": 3,
 	"category": "Music",
-	"visibility": "yes",
+	"visibility": "no",
 	"channelId": 0
 }]
