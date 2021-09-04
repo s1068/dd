@@ -458,6 +458,23 @@
 	"visibility": "yes",
 	"channelId": 0
 }, {
+	"name": "RASI Hollywood",
+	"icon": "",
+	"link": "http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8",
+	"drmScheme": "",
+	"drmLicense": "",
+	"userAgent": "",
+	"refer": "",
+	"origin": "",
+	"cook": "",
+	"source": "dd",
+	"channelLanguageId": 1,
+	"lang": "Tamil",
+	"channelCategoryId": 2,
+	"category": "Entertainment",
+	"visibility": "yes",
+	"channelId": 0
+}, {
 	"name": "RASI HINDI",
 	"icon": "",
 	"link": "http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8",
