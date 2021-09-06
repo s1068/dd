@@ -2464,6 +2464,23 @@
 	"visibility": "yes",
 	"channelId": 0
 }, {
+	"name": "Makkah Live",
+	"icon": "makkah.jpg",
+	"link": "UCFrVnrQF6kTrkDdFZoT9CTQ",
+	"drmScheme": "",
+	"drmLicense": "",
+	"userAgent": "",
+	"refer": "",
+	"origin": "",
+	"cook": "",
+	"source": "ytc",
+	"channelLanguageId": 1,
+	"lang": "Tamil",
+	"channelCategoryId": 6,
+	"category": "Devotional",
+	"visibility": "yes",
+	"channelId": 0
+}, {
 	"name": "AcvComex",
 	"icon": "acvComex.png",
 	"link": "https://cdn.asianetmobiletvplus.com/channels/acvcomex_xfucgtpccbhpdvtlbsnaeszjqliqupju/playlist.m3u8",
