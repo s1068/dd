@@ -2651,23 +2651,6 @@
 	"visibility": "no",
 	"channelId": 0
 }, {
-	"name": "Anand Tv",
-	"icon": "anandtv.png",
-	"link": "https://live.anandtv.net/anandtvapp/anandtv/index.m3u8",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "",
-	"refer": "",
-	"origin": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 2,
-	"lang": "Malayalam",
-	"channelCategoryId": 2,
-	"category": "Entertainment",
-	"visibility": "yes",
-	"channelId": 0
-}, {
 	"name": "UTV PKD",
 	"icon": "utv.png",
 	"link": "http://live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/index.m3u8",
