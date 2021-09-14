@@ -168,6 +168,23 @@
 	"category": "Sports",
 	"visibility": "yes",
 	"channelId": 0
+},{
+	"name": "FB",
+	"icon": "",
+	"link": "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_1.m3u8?from=other&vsid=0000000000000000000000000000000000000000000000000000000000000000&audio_mbr=1",
+	"drmScheme": "",
+	"drmLicense": "",
+	"userAgent": "",
+	"refer": "",
+	"origin": "",
+	"cook": "",
+	"source": "dd",
+	"channelLanguageId": 5,
+	"lang": "English",
+	"channelCategoryId": 5,
+	"category": "Sports",
+	"visibility": "yes",
+	"channelId": 0
 }, {
 	"name": "Akaram TV",
 	"icon": "akaramtv.png",
