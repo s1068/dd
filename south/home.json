@@ -154,7 +154,7 @@
 }, {
 	"name": "Cricket",
 	"icon": "",
-	"link": "https://fancodelive-a.akamaized.net/hls/live/2028698/be816652-23d6-46d7-94af-3c06dd7c65cd/master.m3u8?hdnea=exp=1631655160~acl=*~id=7617424_DOxdiVGz5kxG5P0x~data=7617424~hmac=f09b58155dde5f04d3d5efded04ca23026f68291b8a7f14b1a47f814e366a359",
+	"link": "https://fancodelive-a.akamaized.net/hls/live/2028698/00d4b9b6-ca2b-4789-be16-a3d4bb9402e8/master.m3u8?hdnea=exp=1631741429~acl=*~id=65444881_8oFGLaNta925HqT1~data=65444881~hmac=b3e76ee875bbb9d3bc4662bf14471eac3d05ac099b5114e565db3537cc80fb60&deviceId=Linux%20armv8l",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
