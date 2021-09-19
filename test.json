@@ -11,8 +11,7 @@
 	"channelCategoryId": 1,
 	"category": "News",
 	"visibility": "yes",
-	"channelId": 528,
-	"extra": []
+	"channelId": 528
 }, {
 	"name": "DD Yadagiri",
 	"icon": "ddyadagiri.png",
