@@ -417,7 +417,7 @@
 	"category": "Music",
 	"visibility": "yes",
 	"channelId": 0,
-	"extra": []
+	"extra": ["Origin", "https://player.twitch.tv", "Referer", "https://player.twitch.tv/"]
 }, {
 	"name": "IBC Tamil",
 	"icon": "ibctamil.png",
