@@ -926,7 +926,7 @@
 	"category": "News",
 	"visibility": "yes",
 	"channelId": 0,
-	"extra": ["Origin", "https://www.yupptv.com", "Referer", "https://www.yupptv.com/"]
+	"extra": []
 }, {
 	"name": "Sri Sankara",
 	"icon": "srisankara.png",
@@ -941,7 +941,7 @@
 	"category": "Devotional",
 	"visibility": "yes",
 	"channelId": 0,
-	"extra": []
+	"extra": ["Origin", "https://www.yupptv.com", "Referer", "https://www.yupptv.com/"]
 }, {
 	"name": "AUS TAMIL TV",
 	"icon": "austamil.png",
