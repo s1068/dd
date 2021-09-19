@@ -327,7 +327,7 @@
 	"category": "Entertainment",
 	"visibility": "yes",
 	"channelId": 0,
-	"extra": ["refer", "https://www.yupptv.com/", "origin", "https://www.yupptv.com"]
+	"extra": ["Origin", "https://www.yupptv.com", "Referer", "https://www.yupptv.com/"]
 }, {
 	"name": "RASI MUSIC",
 	"icon": "",
@@ -671,7 +671,7 @@
 	"category": "News",
 	"visibility": "yes",
 	"channelId": 1408,
-	"extra": ["refer", "https://www.yupptv.com/", "origin", "https://www.yupptv.com"]
+	"extra": ["Origin", "https://www.yupptv.com", "Referer", "https://www.yupptv.com/"]
 }, {
 	"name": "News18 Kerala",
 	"icon": "malayalamnew18.png",
@@ -926,7 +926,7 @@
 	"category": "News",
 	"visibility": "yes",
 	"channelId": 0,
-	"extra": ["refer", "https://www.malaimurasu.com/", "origin", "https://www.malaimurasu.com"]
+	"extra": ["Origin", "https://www.yupptv.com", "Referer", "https://www.yupptv.com/"]
 }, {
 	"name": "Sri Sankara",
 	"icon": "srisankara.png",
@@ -971,7 +971,7 @@
 	"category": "News",
 	"visibility": "yes",
 	"channelId": 913,
-	"extra": ["refer", "https://lotusnews.tv/", "origin", "https://lotusnews.tv"]
+	"extra": ["Origin", "https://lotusnews.tv", "Referer", "https://lotusnews.tv/"]
 }, {
 	"name": "SVBC Kannada",
 	"icon": "SVBC.jpg",
@@ -1001,7 +1001,7 @@
 	"category": "News",
 	"visibility": "yes",
 	"channelId": 778,
-	"extra": ["refer", "https://www.yupptv.com/", "origin", "https://www.yupptv.com"]
+	"extra": ["Origin", "https://www.yupptv.com", "Referer", "https://www.yupptv.com/"]
 }, {
 	"name": "TV9 Kannada",
 	"icon": "kannadatv9.jpg",
@@ -1376,7 +1376,7 @@
 	"category": "News",
 	"visibility": "yes",
 	"channelId": 0,
-	"extra": ["refer", "https://www.yupptv.com/", "origin", "https://www.yupptv.com"]
+	"extra": ["Origin", "https://www.yupptv.com", "Referer", "https://www.yupptv.com/"]
 }, {
 	"name": "OM CVR",
 	"icon": "omcvr.png",
@@ -2081,7 +2081,7 @@
 	"category": "Devotional",
 	"visibility": "yes",
 	"channelId": 0,
-	"extra": ["refer", "https://www.yupptv.com/", "origin", "https://www.yupptv.com"]
+	"extra": ["Origin", "https://www.yupptv.com", "Referer", "https://www.yupptv.com/"]
 }, {
 	"name": "Life TV Plus",
 	"icon": "",
