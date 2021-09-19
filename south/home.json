@@ -152,40 +152,6 @@
 	"visibility": "yes",
 	"channelId": 0
 }, {
-	"name": "Cric",
-	"icon": "",
-	"link": "https://fancodelive-a.akamaized.net/hls/live/2028698/00d4b9b6-ca2b-4789-be16-a3d4bb9402e8/master.m3u8?hdnea=exp=1631741429~acl=*~id=65444881_8oFGLaNta925HqT1~data=65444881~hmac=b3e76ee875bbb9d3bc4662bf14471eac3d05ac099b5114e565db3537cc80fb60&deviceId=Linux%20armv8l",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "",
-	"refer": "",
-	"origin": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 5,
-	"lang": "English",
-	"channelCategoryId": 5,
-	"category": "Sports",
-	"visibility": "no",
-	"channelId": 0
-}, {
-	"name": "FB",
-	"icon": "",
-	"link": "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index.m3u8",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "",
-	"refer": "",
-	"origin": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 5,
-	"lang": "English",
-	"channelCategoryId": 5,
-	"category": "Sports",
-	"visibility": "no",
-	"channelId": 0
-}, {
 	"name": "Akaram TV",
 	"icon": "akaramtv.png",
 	"link": "http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8",
@@ -2734,22 +2700,5 @@
 	"channelCategoryId": 1,
 	"category": "News",
 	"visibility": "yes",
-	"channelId": 0
-}, {
-	"name": "Sony Six",
-	"icon": "",
-	"link": "https://dai.google.com/linear/hls/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8?hlsplay1",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "KAIOS",
-	"refer": "",
-	"origin": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 5,
-	"lang": "English",
-	"channelCategoryId": 5,
-	"category": "Sports",
-	"visibility": "no",
 	"channelId": 0
 }]
