@@ -1,6 +1,21 @@
 [{
 	"name": "DD India",
 	"icon": "ddindia.jpg",
+	"link": "http://ahaohoo.com/.1/tv1/play.php?id=2938&e=.m3u8",
+	"drmScheme": "",
+	"drmLicense": "",
+	"userAgent": "",
+	"source": "dd",
+	"channelLanguageId": 5,
+	"lang": "English",
+	"channelCategoryId": 1,
+	"category": "News",
+	"visibility": "yes",
+	"channelId": 528,
+	"extra": []
+},{
+	"name": "DD India",
+	"icon": "ddindia.jpg",
 	"link": "UCGDQNvybfDDeGTf4GtigXaw",
 	"drmScheme": "",
 	"drmLicense": "",
