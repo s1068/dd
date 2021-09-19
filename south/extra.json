@@ -1,21 +1,4 @@
 [{
-	"name": "Cricket",
-	"icon": "",
-	"link": "https://fancodelive-a.akamaized.net/hls/live/2",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "",
-	"refer": "",
-	"origin": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 5,
-	"lang": "English",
-	"channelCategoryId": 5,
-	"category": "Sports",
-	"visibility": "no",
-	"channelId": 0
-}, {
 	"name": "FB",
 	"icon": "",
 	"link": "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index.m3u8",
@@ -33,7 +16,7 @@
 	"visibility": "no",
 	"channelId": 0
 }, {
-	"name": "Cricket",
+	"name": "Cri",
 	"icon": "",
 	"link": "https://pubads.g.doubleclick.net/ssai/event/9o6DQfRmS2evzn5gC2Xdzg/master.m3u8",
 	"drmScheme": "",
@@ -65,5 +48,22 @@
 	"channelCategoryId": 5,
 	"category": "Sports",
 	"visibility": "no",
+	"channelId": 0
+},{
+	"name": "cri",
+	"icon": "",
+	"link": "7356",
+	"drmScheme": "",
+	"drmLicense": "",
+	"userAgent": "KAIOS",
+	"refer": "",
+	"origin": "",
+	"cook": "",
+	"source": "ghd",
+	"channelLanguageId": 5,
+	"lang": "English",
+	"channelCategoryId": 5,
+	"category": "Sports",
+	"visibility": "yes",
 	"channelId": 0
 }]
