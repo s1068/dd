@@ -2,5 +2,5 @@
 	"version": "1",
 	"versionCode": 1,
 	"link": "",
-	"note": "- Add redirection validation\n- Improve application update screen\n- Update Android gradle plugin\n- Update NDK\n- Update dependencies\n- Fix VPN crash when the only system DNS server available uses IPv6 and IPv6 is disabled from settings \n- Remove html-textview dependency and jcenter repository"
+	"note": "- Add redirection validation\n- Improve application update screens\n- Update Android gradle plugin\n- Update NDK\n- Update dependencies\n- Fix VPN crash when the only system DNS server available uses IPv6 and IPv6 is disabled from settings \n- Remove html-textview dependency and jcenter repository"
 }
