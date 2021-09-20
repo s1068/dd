@@ -1,4 +1,21 @@
 [{
+	"name": "cric",
+	"icon": "",
+	"link": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/klnrpw-XnbwAxewjVtevcJWfPjcadLON-1UDcFfCG_f0XyM5top-t8lqJWZtqGyTPgRfoMPEzW_F4gFzTSjKeQ/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
+	"drmScheme": "",
+	"drmLicense": "",
+	"userAgent": "Dalvik/2.1.0 (Linux; U; Android 10; Mi A3 Build/QKQ1.190910.002)",
+	"refer": "",
+	"origin": "",
+	"cook": "",
+	"source": "dd",
+	"channelLanguageId": 5,
+	"lang": "English",
+	"channelCategoryId": 5,
+	"category": "Sports",
+	"visibility": "yes",
+	"channelId": 0
+},{
 	"name": "DD India",
 	"icon": "ddindia.jpg",
 	"link": "UCGDQNvybfDDeGTf4GtigXaw",
