@@ -13,7 +13,7 @@
 	"lang": "English",
 	"channelCategoryId": 5,
 	"category": "Sports",
-	"visibility": "yes",
+	"visibility": "no",
 	"channelId": 0
 }, {
 	"name": "Cri",
@@ -33,9 +33,9 @@
 	"visibility": "no",
 	"channelId": 0
 }, {
-	"name": "Sony Six",
+	"name": "cric",
 	"icon": "",
-	"link": "https://dai.google.com/linear/hls/event/FrPF6Xu-RI2OySO45A14tg/master.m3u8?hlsplay1 ",
+	"link": "https://dai.google.com/linear/hls/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8?hlsplay1",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "KAIOS",
@@ -47,7 +47,7 @@
 	"lang": "English",
 	"channelCategoryId": 5,
 	"category": "Sports",
-	"visibility": "yes",
+	"visibility": "no",
 	"channelId": 0
 }, {
 	"name": "cri",
