@@ -13,7 +13,7 @@
 	"lang": "English",
 	"channelCategoryId": 5,
 	"category": "Sports",
-	"visibility": "yes",
+	"visibility": "no",
 	"channelId": 0
 },{
 	"name": "IPL",
@@ -30,7 +30,7 @@
 	"lang": "English",
 	"channelCategoryId": 5,
 	"category": "Sports",
-	"visibility": "yes",
+	"visibility": "no",
 	"channelId": 0
 }, {
 	"name": "DD India",
