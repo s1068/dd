@@ -1,5 +1,5 @@
 [{
-	"name": "IPL Tamil",
+	"name": "IPL 1",
 	"icon": "",
 	"link": "pinkcity1",
 	"drmScheme": "",
@@ -13,7 +13,7 @@
 	"lang": "English",
 	"channelCategoryId": 5,
 	"category": "Sports",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0
 },{
 	"name": "IPL",
