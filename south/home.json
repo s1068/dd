@@ -1,6 +1,23 @@
 [{
 	"name": "IPL 1",
 	"icon": "",
+	"link": "http://movieshub.tech/playlist.php?2 ",
+	"drmScheme": "",
+	"drmLicense": "",
+	"userAgent": "Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0",
+	"refer": "https://www.pkcast123.me",
+	"origin": "",
+	"cook": "",
+	"source": "dd",
+	"channelLanguageId": 5,
+	"lang": "English",
+	"channelCategoryId": 5,
+	"category": "Sports",
+	"visibility": "yes",
+	"channelId": 0
+},{
+	"name": "IPL 1",
+	"icon": "",
 	"link": "pinkcity1",
 	"drmScheme": "",
 	"drmLicense": "",
