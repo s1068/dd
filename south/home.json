@@ -7,7 +7,7 @@
 	"userAgent": "exoplayer-codelab",
 	"refer": "https://www.hotstar.com/",
 	"origin": "https://www.hotstar.com",
-	"cook": "ajs_group_id=null; hs_uid=bc50712c-f6e6-4aaf-85cd-74d2dc8483a3; ajs_user_id=%22a0c8a184e34f48c58cf5e102c49b5009%22; ajs_anonymous_id=%22519973c3-b5bf-4fff-b294-a50e69d0acf3%22; hdntl=exp=1632627500~acl=*ipl2021*~id=d080b5896b42864c844a8507864acf1c~data=ip%3dFikEipEcA3BA00pS5Tlbgp-userid%3djvwnNr7lzDDJ2nZDDJU3VxAyp9707UX574YnBkm5ZXSP-did%3dKHErpmXRUWoy0lzErAUm6mQvdT5V365iomlN6W2mesjT01YqhfUCsPN-~hmac=5c8945d84c264df97fcba269d0964ee0ef22db833eb14823a3ddb1022c4589e1",
+	"cook": "ajs_anonymous_id=%22519973c3-b5bf-4fff-b294-a50e69d0acf3%22; hdntl=exp=1632629558~acl=*ipl2021*~id=5bb5141fc844cf5b63b3783c7a0c42af~data=ip%3dFikEipEcA3BA00pS5Tlbgp-userid%3djvwnNr7lzDDJ2nZDDJU3VxAyp9707UX574YnBkm5ZXSP-did%3dKHErpmXRUWoy0lzErAUm6mQvdT5V365iomlN6W2mesjT01YqhfUCsPN-~hmac=fe1df02f4e6484890d00718caf152122bc3b153c766ff320884be5dad6816747",
 	"source": "dd",
 	"channelLanguageId": 5,
 	"lang": "English",
