@@ -4,7 +4,7 @@
 	"link": "https://vsd126.mycdn.me/hls/1652478511628.m3u8/sig/cssQlCFx6jI/expires/1632743298578/srcIp/184.22.89.224/clientType/1/srcAg/UNKNOWN_ANDROID/mid/2648447065612/video.m3u8?p",
 	"drmScheme": "",
 	"drmLicense": "",
-	"userAgent": "",
+	"userAgent": "Dalvik/2.1.0 (Linux; U; Android 10; Mi A3 Build/QKQ1.190910.002)",
 	"refer": "",
 	"origin": "",
 	"cook": "",
@@ -13,7 +13,7 @@
 	"lang": "English",
 	"channelCategoryId": 5,
 	"category": "Sports",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0
 }, {
 	"name": "IPL Tamil 1080p",
