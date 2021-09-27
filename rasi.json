@@ -7,7 +7,7 @@
 	"userAgent": "",
 	"source": "dd",
 	"visibility": "no",
-	"extra": []
+	"extra": ["test", "test"]
 }, {
 	"name": "RASI TAMIL",
 	"icon": "",
