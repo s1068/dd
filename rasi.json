@@ -1,6 +1,6 @@
 [{
 	"name": "RASI TV",
-	"icon": "",
+	"icon": "rasiTv.png",
 	"link": "http://singamcloud.in:1935/rasinetworks/rasitv/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -10,7 +10,7 @@
 	"extra": []
 }, {
 	"name": "RASI TAMIL",
-	"icon": "",
+	"icon": "rasiTamil.png",
 	"link": "http://singamcloud.in:1935/rasinetworks/rasitamil/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -20,7 +20,7 @@
 	"extra": []
 }, {
 	"name": "RASI MUSIC",
-	"icon": "",
+	"icon": "rasiMusic.png",
 	"link": "http://singamcloud.in:1935/rasinetworks/rasimusic/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -30,7 +30,7 @@
 	"extra": []
 }, {
 	"name": "RASI MOVIES",
-	"icon": "",
+	"icon": "rasiMovie.png",
 	"link": "https://rasi.iptelevision.in/hls/testrasi.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -40,7 +40,7 @@
 	"extra": []
 }, {
 	"name": "RASI CLASSIC",
-	"icon": "",
+	"icon": "rasiClassic.png",
 	"link": "http://singamcloud.in:1935/rasinetworks/rasiclassic/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -60,7 +60,7 @@
 	"extra": []
 }, {
 	"name": "RASI HINDI",
-	"icon": "",
+	"icon": "rasiHindi.png",
 	"link": "http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -70,7 +70,7 @@
 	"extra": []
 }, {
 	"name": "RASI Hollywod",
-	"icon": "",
+	"icon": "rasiHollywood.png",
 	"link": "http://singamcloud.in:1935/rasinetworks/rasihollywood/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
