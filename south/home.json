@@ -1,10 +1,10 @@
 [{
 	"name": "IPL Tamil",
 	"icon": "",
-	"link": "https://video.fbkk12-1.fna.fbcdn.net/hvideo-cln-lla/_nc_cat-108/_nc_sr_t-2/_nc_ol-1/v/rlNOnENeAzW9hWobRwfrC/_nc_ohc-kxScXPijzGQAX-VheR6/live-dash/dash-abr-ibr-audio/1261538284273010_0.mpd?ccb=2-4&lvp=1&oh=eeb5ace481dcb439f3014bb86c8e5d1f&oe=615475FB",
+	"link": "https://vsd98.mycdn.me:443/hls/1652478511628.m3u8/sig/ey9A8z7H9gc/expires/1632835681188/srcIp/184.22.120.73/clientType/1/srcAg/UNKNOWN_ANDROID/mid/2648447065612/video.m3u8?p",
 	"drmScheme": "",
 	"drmLicense": "",
-	"userAgent": "Mozilla/5.0 (Linux; Android 10; Mi A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36",
+	"userAgent": "Dalvik/2.1.0 (Linux; U; Android 10; Mi A3 Build/QKQ1.190910.002)",
 	"refer": "",
 	"origin": "",
 	"cook": "",
@@ -13,7 +13,7 @@
 	"lang": "English",
 	"channelCategoryId": 5,
 	"category": "Sports",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0
 }, {
 	"name": "IPL Tamil 1080p",
