@@ -35,7 +35,7 @@
 }, {
 	"name": "IPL english",
 	"icon": "",
-	"link": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/3vTqSzp3YMf4Y09ngXbp9lgbacG72BtqGlC7wq-JSzkTMKyUR4AcI9o46OLjnukwEF9uW3k1aIii7WNLs9iybw/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
+	"link": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/QmIqDDcYTsU9AnMuC_7rsjbr8EOqDog2X8nBMl9n3XcLV4dmHxaJZoFPzOW531YG6cetpluo5tTB0uYnyJNmFw/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "Dalvik/2.1.0 (Linux; U; Android 10; Mi A3 Build/QKQ1.190910.002)",
