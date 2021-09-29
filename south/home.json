@@ -1,6 +1,23 @@
 [{
 	"name": "IPL Tamil",
 	"icon": "",
+	"link": "https://video.fbkk12-1.fna.fbcdn.net/hvideo-lla-cln/_nc_cat-101/_nc_sr_t-2/_nc_ol-1/v/rrpssY3NvoGWOD3FpY_ex/_nc_ohc-xY54Fp6PZrcAX9H1Jc1/live-dash/dash-abr-ibr-audio/1262236847536487_0.mpd?ccb=2-4&lvp=1&oh=faf4579afc9443265e5cb059bf0ef08c&oe=6155F629",
+	"drmScheme": "",
+	"drmLicense": "",
+	"userAgent": "",
+	"refer": "https://en-gb.facebook.com/",
+	"origin": "https://en-gb.facebook.com",
+	"cook": "",
+	"source": "dd",
+	"channelLanguageId": 5,
+	"lang": "Tamil",
+	"channelCategoryId": 1,
+	"category": "Sports",
+	"visibility": "yes",
+	"channelId": 0
+}, {
+	"name": "IPL Tamil",
+	"icon": "",
 	"link": "http://212.224.98.211:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=",
 	"drmScheme": "",
 	"drmLicense": "",
