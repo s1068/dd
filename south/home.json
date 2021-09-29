@@ -1,19 +1,19 @@
 [{
 	"name": "IPL Tamil",
 	"icon": "",
-	"link": "https://video.fbkk8-4.fna.fbcdn.net/hvideo-odn-lla/_nc_cat-100/_nc_sr_t-2/v/rjd0ukcd56n6HllEIsDQ0/_nc_ohc-6d-3kZkAcW4AX_DZfz0/live-dash/dash-abr-ibr-audio/1261669980926507_0.mpd?ccb=2-4&lvp=1&oh=c5466e6e2cdaba56b031d35767810ddf&oe=61551DEB",
+	"link": "http://212.224.98.211:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
-	"refer": "https://en-gb.facebook.com/",
-	"origin": "https://en-gb.facebook.com",
+	"refer": "",
+	"origin": "",
 	"cook": "",
 	"source": "dd",
 	"channelLanguageId": 5,
 	"lang": "Tamil",
 	"channelCategoryId": 1,
 	"category": "Sports",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0
 }, {
 	"name": "IPL Tamil 1080p",
