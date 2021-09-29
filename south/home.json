@@ -33,21 +33,21 @@
 	"visibility": "no",
 	"channelId": 0
 }, {
-	"name": "IPL english",
+	"name": "IPL",
 	"icon": "",
-	"link": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/QmIqDDcYTsU9AnMuC_7rsjbr8EOqDog2X8nBMl9n3XcLV4dmHxaJZoFPzOW531YG6cetpluo5tTB0uYnyJNmFw/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
+	"link": "pinkcity2",
 	"drmScheme": "",
 	"drmLicense": "",
-	"userAgent": "Dalvik/2.1.0 (Linux; U; Android 10; Mi A3 Build/QKQ1.190910.002)",
-	"refer": "https://pscp.tv",
+	"userAgent": "",
+	"refer": "",
 	"origin": "",
 	"cook": "",
-	"source": "dd",
+	"source": "twitch",
 	"channelLanguageId": 5,
 	"lang": "English",
 	"channelCategoryId": 5,
 	"category": "Sports",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0
 }, {
 	"name": "DD India",
