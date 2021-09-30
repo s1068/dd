@@ -33,21 +33,21 @@
 	"visibility": "yes",
 	"channelId": 0
 }, {
-	"name": "IPL Tamil 1080p",
+	"name": "IPL English",
 	"icon": "",
-	"link": "5001133",
+	"link": "https://video.fbkk12-2.fna.fbcdn.net/hvideo-rva-ldc/_nc_cat-105/_nc_sr_t-2/v/rNDGu4beYnJq5rhDjV-wP/_nc_ohc-RAMe6MtB_EkAX9J5TZr/live-dash/dash-abr-ibr-audio/278245577365109_0.mpd?ccb=2-4&lvp=1&oh=4a537bf6bac98ead0e111952f5ab717e&oe=6157AD16",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
-	"refer": "",
-	"origin": "",
+	"refer": "https://en-gb.facebook.com/",
+	"origin": "https://en-gb.facebook.com",
 	"cook": "",
-	"source": "twitch",
+	"source": "dd",
 	"channelLanguageId": 5,
 	"lang": "English",
 	"channelCategoryId": 5,
 	"category": "Sports",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0
 }, {
 	"name": "IPL",
