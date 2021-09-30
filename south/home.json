@@ -1,7 +1,7 @@
 [{
 	"name": "IPL Tamil",
 	"icon": "",
-	"link": "https://video.fbkk12-1.fna.fbcdn.net/hvideo-lla-cln/_nc_cat-101/_nc_sr_t-2/_nc_ol-1/v/rrpssY3NvoGWOD3FpY_ex/_nc_ohc-xY54Fp6PZrcAX9H1Jc1/live-dash/dash-abr-ibr-audio/1262236847536487_0.mpd?ccb=2-4&lvp=1&oh=faf4579afc9443265e5cb059bf0ef08c&oe=6155F629",
+	"link": "https://video.fbkk8-3.fna.fbcdn.net/hvideo-cln-lla/_nc_cat-111/_nc_sr_t-2/v/r_HRaU3NQtuv6x3fc1UE5/_nc_ohc-wl-Aj5PrgqAAX9u1JBh/live-dash/dash-md/1262913477468824_0.mpd?ccb=2-4&lvp=1&oh=921260cbd2e6c51c3b0f6489eff2e31f&oe=61575809",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -13,7 +13,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 1,
 	"category": "Sports",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0
 }, {
 	"name": "IPL Tamil 1080p",
@@ -30,7 +30,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 1,
 	"category": "Sports",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0
 }, {
 	"name": "IPL Tamil 1080p",
