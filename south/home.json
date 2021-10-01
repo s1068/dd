@@ -35,7 +35,7 @@
 }, {
 	"name": "IPL English",
 	"icon": "",
-	"link": "https://video.fbkk12-2.fna.fbcdn.net/hvideo-rva-ldc/_nc_cat-105/_nc_sr_t-2/v/rNDGu4beYnJq5rhDjV-wP/_nc_ohc-RAMe6MtB_EkAX9J5TZr/live-dash/dash-abr-ibr-audio/278245577365109_0.mpd?ccb=2-4&lvp=1&oh=4a537bf6bac98ead0e111952f5ab717e&oe=6157AD16",
+	"link": "https://video.fbkk12-1.fna.fbcdn.net/hvideo-odn-cln/_nc_cat-101/_nc_sr_t-2/v/rsfDgj3sorugb_LqTNPYZ/_nc_ohc-ZI7NbTf_ykIAX_qyKDw/live-dash/dash-abr-ibr-audio/1263498657410306_0.mpd?ccb=2-4&lvp=1&oh=44d235ef8922dff94f1919bf5d54ef96&oe=6158E83E",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -47,7 +47,7 @@
 	"lang": "English",
 	"channelCategoryId": 5,
 	"category": "Sports",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0
 }, {
 	"name": "IPL",
