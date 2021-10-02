@@ -16,9 +16,9 @@
 	"visibility": "no",
 	"channelId": 0
 }, {
-	"name": "IPL",
+	"name": "IPL 1080p",
 	"icon": "",
-	"link": "pinkcity5",
+	"link": "5001133",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -30,7 +30,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 1,
 	"category": "Sports",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0
 }, {
 	"name": "DD India",
