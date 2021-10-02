@@ -1,7 +1,7 @@
 [{
 	"name": "IPL English",
 	"icon": "",
-	"link": "https://video.fbkk12-1.fna.fbcdn.net/hvideo-odn-cln/_nc_cat-108/_nc_sr_t-2/v/rtyQUZBq4n-lbS5xXjgvj/_nc_ohc-si6kOO4pAVsAX8CyUK4/live-dash/dash-abr-ibr-audio/1264115694015269_0.mpd?ccb=2-4&lvp=1&oh=105d4e930292ec7519f8944fc8ff2ed9&oe=615A32CE",
+	"link": "https://video.fbkk12-1.fna.fbcdn.net/hvideo-cln-lla/_nc_cat-101/_nc_sr_t-2/v/r1A6voLww_nDauIxw5bI_/_nc_ohc-dQ4q_mTFkYwAX9-ZP5k/live-dash/dash-abr-ibr-audio/1264215710671934_0.mpd?ccb=2-4&lvp=1&oh=4f5bc9f4db1137c86f45aa5f5025c565&oe=615A351D",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -13,7 +13,7 @@
 	"lang": "English",
 	"channelCategoryId": 5,
 	"category": "Sports",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0
 }, {
 	"name": "IPL 1080p",
