@@ -1,7 +1,7 @@
 [{
 	"name": "IPL English",
 	"icon": "",
-	"link": "https://video.fbkk9-2.fna.fbcdn.net/hvideo-odn-cln/_nc_cat-109/_nc_sr_t-2/v/rAsjtf24VyxgtXi2p6HuK/_nc_ohc-T2DA73Df1eMAX8sIXku/live-dash/dash-abr-ibr-audio/1264783373948501_0.mpd?ccb=2-4&lvp=1&oh=0cadf628af4c8e55bcb3d40a59f3932a&oe=615B3797",
+	"link": "https://video.fbkk8-4.fna.fbcdn.net/hvideo-atn-rva/_nc_cat-100/_nc_sr_t-2/v/rcndVhZCogAO-rh-aZHmo/_nc_ohc-LDRtxmG5PX8AX95fwyc/live-dash/dash-abr-ibr-audio/1264942383932600_0.mpd?ccb=2-4&lvp=1&oh=fbf5cd224d9c6323a74b24b62975fb9e&oe=615B73C0",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -13,7 +13,7 @@
 	"lang": "English",
 	"channelCategoryId": 5,
 	"category": "Sports",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0
 }, {
 	"name": "IPL Tamil",
