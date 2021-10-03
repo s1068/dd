@@ -52,7 +52,7 @@
 }, {
 	"name": "IPL 1080p",
 	"icon": "",
-	"link": "5001133",
+	"link": "pinkcity2",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -64,7 +64,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 1,
 	"category": "Sports",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0
 }, {
 	"name": "DD India",
