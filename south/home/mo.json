@@ -1,5 +1,5 @@
 [{
-	"name": "test",
+	"name": "Tamil",
 	"more": "more",
 	"content": [{
 		"name": "hello1",
@@ -23,7 +23,7 @@
 		"extra": []
 	}]
 }, {
-	"name": "test",
+	"name": "Telugu",
 	"more": "more",
 	"content": [{
 		"name": "hello1",
@@ -42,7 +42,7 @@
 		"extra": []
 	}]
 }, {
-	"name": "test",
+	"name": "Kannadam",
 	"more": "more",
 	"content": [{
 		"name": "hello1",
@@ -61,7 +61,7 @@
 		"extra": []
 	}]
 }, {
-	"name": "test",
+	"name": "Malayalam",
 	"more": "more",
 	"content": [{
 		"name": "hello1",
