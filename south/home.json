@@ -32,7 +32,7 @@
 	"category": "Sports",
 	"visibility": "no",
 	"channelId": 0
-},{
+}, {
 	"name": "IPL English",
 	"icon": "",
 	"link": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/Jitu6GH20Dx-RckqXBdPpldDlbMN47A7G-mwALpdMHMi0JRQ5qxywBlv78uiR36oKDF0-7Bs6ChUERyl2HLD8w/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
@@ -56,8 +56,8 @@
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
-	"refer": "",
-	"origin": "",
+	"refer": "https://www.twitch.tv/",
+	"origin": "https://www.twitch.tv",
 	"cook": "",
 	"source": "twitch",
 	"channelLanguageId": 5,
