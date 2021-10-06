@@ -1,7 +1,24 @@
 [{
 	"name": "IPL English",
 	"icon": "",
-	"link": "https://video.fbkk12-1.fna.fbcdn.net/hvideo-ldc-eag/_nc_cat-107/_nc_sr_t-2/v/rYydyr9iri6ZYY67YXjWD/_nc_ohc-8P0nJVlxuskAX82dqDj/live-dash/dash-abr-ibr-audio/1266681037092068_0.mpd?ccb=2-4&lvp=1&oh=02391c651aba2d9eb94c83689b89b1de&oe=615F22E8",
+	"link": "5001133",
+	"drmScheme": "",
+	"drmLicense": "",
+	"userAgent": "",
+	"refer": "https://www.twitch.tv/",
+	"origin": "https://www.twitch.tv",
+	"cook": "",
+	"source": "twitch",
+	"channelLanguageId": 5,
+	"lang": "Tamil",
+	"channelCategoryId": 1,
+	"category": "Sports",
+	"visibility": "yes",
+	"channelId": 0
+}, {
+	"name": "IPL English",
+	"icon": "",
+	"link": "https://video.fbkk8-3.fna.fbcdn.net/hvideo-prn-rva/_nc_cat-111/_nc_sr_t-2/v/r_-4eYRpXtOv5Cbcieiyj/_nc_ohc-UqSpGQRrMAwAX_5YCPR/live-dash/dash-md/1266763327083839_0.mpd?ccb=2-4&lvp=1&oh=aab48bb7001b15814c1aeb34ca3e24f7&oe=615F6521",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -50,7 +67,7 @@
 	"visibility": "no",
 	"channelId": 0
 }, {
-	"name": "IPL 1080p",
+	"name": "IPL English",
 	"icon": "",
 	"link": "5001133",
 	"drmScheme": "",
@@ -64,7 +81,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 1,
 	"category": "Sports",
-	"visibility": "yes",
+	"visibility": "no",
 	"channelId": 0
 }, {
 	"name": "DD India",
