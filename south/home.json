@@ -16,6 +16,23 @@
 	"visibility": "yes",
 	"channelId": 0
 }, {
+	"name": "RCB vs DC",
+	"icon": "",
+	"link": "5500mus",
+	"drmScheme": "",
+	"drmLicense": "",
+	"userAgent": "",
+	"refer": "https://www.twitch.tv/",
+	"origin": "https://www.twitch.tv",
+	"cook": "",
+	"source": "twitch",
+	"channelLanguageId": 5,
+	"lang": "Tamil",
+	"channelCategoryId": 1,
+	"category": "Sports",
+	"visibility": "yes",
+	"channelId": 0
+}, {
 	"name": "IPL English",
 	"icon": "",
 	"link": "https://video.fbkk12-1.fna.fbcdn.net/hvideo-atn-vll/_nc_cat-108/_nc_sr_t-2/v/rd-itlD7lIb3xLMjOMVJo/_nc_ohc-msIPmRQWL4MAX8aNpn7/live-dash/dash-abr-ibr-audio/1267405167019655_0.mpd?ccb=2-4&lvp=1&oh=ba4596e9018d42b06dbfb7934542c1fe&oe=616059FA",
