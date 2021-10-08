@@ -35,9 +35,7 @@
 }, {
 	"name": "RCB vs DC Auto",
 	"icon": "",
-	"link": "https://video.fbkk8-3.fna.fbcdn.net/hvideo-cln-lla/_nc_cat-111/_nc_sr_t-2/v/rW3UzuKe1CZUfmrjVxPWz/_nc_ohc-KdO1YfuOhoMAX_NWzZn/live-dash/dash-abr-ibr-audio/1268082356951936_0.mpd?ccb=2-4&lvp=1&oh=6648334138ae6156f97150739a008524&oe=61619044
-
-RCB vs DC",
+	"link": "https://video.fbkk8-3.fna.fbcdn.net/hvideo-cln-lla/_nc_cat-111/_nc_sr_t-2/v/rW3UzuKe1CZUfmrjVxPWz/_nc_ohc-KdO1YfuOhoMAX_NWzZn/live-dash/dash-abr-ibr-audio/1268082356951936_0.mpd?ccb=2-4&lvp=1&oh=6648334138ae6156f97150739a008524&oe=61619044",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -49,7 +47,7 @@ RCB vs DC",
 	"lang": "English",
 	"channelCategoryId": 5,
 	"category": "Sports",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0
 }, {
 	"name": "IPL Tamil",
