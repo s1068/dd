@@ -1,6 +1,6 @@
 {
-	"version": "0",
-	"versionCode": 0,
-	"link": "",
-	"note": "- Add redirection validation\n- Improve application update screens\n- Update Android gradle plugin\n- Update NDK\n- Update dependencies\n- Fix VPN crash when the only system DNS server available uses IPv6 and IPv6 is disabled from settings \n- Remove html-textview dependency and jcenter repository"
+	"version": "3.0",
+	"versionCode": 3,
+	"link": "https://play.google.com/store/apps/details?id=com.genuine.leone",
+	"note": "- Improved Player layout\n- Bug fixed \n- Supported to Android 12"
 }
