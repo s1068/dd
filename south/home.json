@@ -33,23 +33,6 @@
 	"visibility": "yes",
 	"channelId": 0
 }, {
-	"name": "IPL Tamil",
-	"icon": "",
-	"link": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/2y8JemXV2_6Mqe65SvXIe2Vw2WnKUKkm1EV-sEB4MuEvoVYy67S-be8zu1O_lMSZia0h2JaAwIAfk00-Ny3CcQ/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
-	"refer": "https://pscp.tv",
-	"origin": "",
-	"cook": "",
-	"source": "dd",
-	"channelLanguageId": 5,
-	"lang": "Tamil",
-	"channelCategoryId": 1,
-	"category": "Sports",
-	"visibility": "no",
-	"channelId": 0
-}, {
 	"name": "IPL English",
 	"icon": "",
 	"link": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/_jjpBbOdJBGgOzZv-a063yAaMQOnVHbAgWTehiQmds2IXb9iwppzYs68s-a8rBC84w2SoDalrRNQIiq44Ie3Og/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
@@ -67,9 +50,9 @@
 	"visibility": "no",
 	"channelId": 0
 }, {
-	"name": "IPL English",
+	"name": "IPL auto",
 	"icon": "",
-	"link": "5001133",
+	"link": "201133s",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -81,7 +64,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 1,
 	"category": "Sports",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0
 }, {
 	"name": "DD India",
