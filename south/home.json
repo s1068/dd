@@ -1,5 +1,5 @@
 [{
-	"name": "MI vs SRH 1080p",
+	"name": "CSK vs DC 1080p",
 	"icon": "",
 	"link": "201133s",
 	"drmScheme": "",
@@ -13,7 +13,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 1,
 	"category": "Sports",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0
 }, {
 	"name": "RCB vs DC",
