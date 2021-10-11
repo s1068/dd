@@ -1,5 +1,5 @@
 [{
-	"name": "IPL 1080p",
+	"name": "IPL auto",
 	"icon": "",
 	"link": "442211c",
 	"drmScheme": "",
@@ -50,7 +50,7 @@
 	"visibility": "no",
 	"channelId": 0
 }, {
-	"name": "IPL auto",
+	"name": "IPL 1080p",
 	"icon": "",
 	"link": "201133s",
 	"drmScheme": "",
