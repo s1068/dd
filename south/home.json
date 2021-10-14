@@ -339,6 +339,23 @@
 	"visibility": "no",
 	"channelId": 0
 }, {
+	"name": "VeerBox HD",
+	"icon": "",
+	"link": "776622d",
+	"drmScheme": "",
+	"drmLicense": "",
+	"userAgent": "",
+	"refer": "https://www.twitch.tv/",
+	"origin": "https://www.twitch.tv",
+	"cook": "",
+	"source": "twitch",
+	"channelLanguageId": 1,
+	"lang": "Tamil",
+	"channelCategoryId": 2,
+	"category": "Entertainment",
+	"visibility": "yes",
+	"channelId": 0
+}, {
 	"name": "Analaiexpress",
 	"icon": "analaiexpress.png",
 	"link": "https://live.streamjo.com/sarastv/sarastv.m3u8",
