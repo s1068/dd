@@ -1,7 +1,7 @@
 [{
-	"name": "IPL English",
+	"name": "ICC 1080p",
 	"icon": "",
-	"link": "442211c",
+	"link": "201133s",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -13,7 +13,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 1,
 	"category": "Sports",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0
 }, {
 	"name": "ICC WorldCup",
