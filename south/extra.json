@@ -50,23 +50,6 @@
 	"visibility": "no",
 	"channelId": 0
 }, {
-	"name": "MGR TV",
-	"icon": "",
-	"link": "776622d",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "",
-	"refer": "https://www.twitch.tv/",
-	"origin": "https://www.twitch.tv",
-	"cook": "",
-	"source": "twitch",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 2,
-	"category": "Entertainment",
-	"visibility": "yes",
-	"channelId": 0
-}, {
 	"name": "RASI TV",
 	"icon": "",
 	"link": "http://singamcloud.in:1935/rasinetworks/rasitv/playlist.m3u8",
