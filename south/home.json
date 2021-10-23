@@ -13,7 +13,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 1,
 	"category": "Sports",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0
 }, {
 	"name": "ICC 1",
@@ -30,7 +30,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 1,
 	"category": "Sports",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0
 }, {
 	"name": "ICC 2",
