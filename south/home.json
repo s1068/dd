@@ -32,6 +32,23 @@
 	"category": "Sports",
 	"visibility": "yes",
 	"channelId": 0
+}, , {
+	"name": "ICC English",
+	"icon": "",
+	"link": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/58PTueFMJJ7N432d__Gsr43WJdMFtJKmANOvp6aHFvxcTYATUnd1Bn5q9onfSDCGv-CQzDX5A1HNdUyFaPTsjA/non_transcode/ap-southeast-1/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
+	"drmScheme": "",
+	"drmLicense": "",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"refer": "https://pscp.tv",
+	"origin": "",
+	"cook": "",
+	"source": "dd",
+	"channelLanguageId": 5,
+	"lang": "Tamil",
+	"channelCategoryId": 1,
+	"category": "Sports",
+	"visibility": "yes",
+	"channelId": 0
 }, {
 	"name": "ICC 2",
 	"icon": "",
