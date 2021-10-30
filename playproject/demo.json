@@ -1,9 +1,19 @@
 [{
 	"name": "Clear DASH - HD (MP4, H264)",
-	"link": "https://storage.googleapis.com/wvmedia/clear/h264/tears/tears.mpd"
+	"link": "https://storage.googleapis.com/wvmedia/clear/h264/tears/tears.mpd",
+	"userAgent": "",
+	"cookie": "",
+	"referer": "",
+	"origin": "",
+	"drmScheme": "",
+	"drmLicense": ""
 }, {
 	"name": "Widevine DASH (MP4, H264) - HD (cenc)",
 	"link": "https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd",
+	"userAgent": "",
+	"cookie": "",
+	"referer": "",
+	"origin": "",
 	"drmScheme": "widevine",
 	"drmLicense": "https://proxy.uat.widevine.com/proxy?provider=widevine_test"
 }, {
