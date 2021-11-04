@@ -1,5 +1,5 @@
 [{
-	"name": "Clear DASH module_version_author(item.item.version, item.item.author module_version_author(item.item.version ",
+	"name": "Clear DASH",
 	"more": "more",
 	"content": [{
 		"name": "HD (MP4, H264)",
@@ -21,7 +21,7 @@
 		"link": "https://storage.googleapis.com/wvmedia/clear/vp9/tears/tears_uhd.mpd"
 	}]
 }, {
-	"name": "Widevine DASH (MP4, H264) module_version_author(item.item.version",
+	"name": "Widevine DASH (MP4, H264)",
 	"more": "more",
 	"content": [{
 		"name": "HD (cenc)",
