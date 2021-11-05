@@ -18,7 +18,7 @@
 }, {
 	"name": "ICC English",
 	"icon": "",
-	"link": "http://5.196.249.160:8081/gulfnews/abc_index/playlist.m3u8",
+	"link": "http://91.121.240.99:8081/gulfnews/abc_index/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "Mozilla/5.0 (Linux; Android 10; Mi A2 Build/QKQ1.190910.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4606.85 Mobile Safari/537.36",
