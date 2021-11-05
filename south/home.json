@@ -18,7 +18,7 @@
 }, {
 	"name": "ICC English",
 	"icon": "",
-	"link": "http://164.132.237.73:8081/gulfnews/abc_index/playlist.m3u8",
+	"link": "http://5.196.249.160:8081/gulfnews/abc_index/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "Mozilla/5.0 (Linux; Android 10; Mi A2 Build/QKQ1.190910.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4606.85 Mobile Safari/537.36",
@@ -52,19 +52,19 @@
 }, {
 	"name": "ICC 2",
 	"icon": "",
-	"link": "https://zee5vodnd.akamaized.net/hls1/1080p/tvshows/ONAIR_SHOWS/Zee_Tamil/April2019/21042019/Seamless/Tamizha_Tamizha_Ep21_Seamless_21042019_ta_03afe2c7.mp4/index.m3u8?hdnea=st=1636113013~exp=1636116733~acl=/hls1/1080p/tvshows/ONAIR_SHOWS/Zee_Tamil/April2019/21042019/Seamless/Tamizha_Tamizha_Ep21_Seamless_21042019_ta_03afe2c7.mp4/index.m3u8*~hmac=b6cc9b200e99c2005522b4b947d3968167735de41d595a7a42a9ed9a2b915438",
+	"link": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/58PTueFMJJ7N432d__Gsr43WJdMFtJKmANOvp6aHFvxcTYATUnd1Bn5q9onfSDCGv-CQzDX5A1HNdUyFaPTsjA/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
 	"drmScheme": "",
 	"drmLicense": "",
-	"userAgent": "Mozilla/5.0 (Linux; Android 10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.4638.74 Mobile Safari/537.36",
-	"refer": "https://www.zee5.com/",
-	"origin": "https://www.zee5.com",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"refer": "https://pscp.tv",
+	"origin": "",
 	"cook": "",
 	"source": "dd",
 	"channelLanguageId": 5,
 	"lang": "Tamil",
 	"channelCategoryId": 1,
 	"category": "Sports",
-	"visibility": "yes",
+	"visibility": "no",
 	"channelId": 0
 }, {
 	"name": "DD India",
