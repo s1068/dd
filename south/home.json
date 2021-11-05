@@ -35,7 +35,7 @@
 }, {
 	"name": "ICC English",
 	"icon": "",
-	"link": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/4okiVhYlqsS9AMdkgq7MBOKJZEXNRXsH53hlnCu8_cFknTWM4SUQHgMrkmR6nl7eiJkGUhFEYPhdjuRSaFSjKQ/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
+	"link": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/l6dYvTKNjHHgqFLzfHp_45nb9oL6QCVhOD-j08ixNYEdfBIowfRgpNTXGzgF0S4O7cXeleHJkXrfZ8eMDdNxMw/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
@@ -47,7 +47,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "Sports",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0
 }, {
 	"name": "ICC 2",
