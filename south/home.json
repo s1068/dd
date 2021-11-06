@@ -18,7 +18,7 @@
 }, {
 	"name": "ICC English",
 	"icon": "",
-	"link": "http://91.121.240.109:8081/gulfnews/abc_index/playlist.m3u8",
+	"link": "http://137.74.131.31:8081/gulfnews/abc_index/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "Mozilla/5.0 (Linux; Android 10; Mi A2 Build/QKQ1.190910.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.4638.74 Mobile Safari/537.36",
@@ -30,12 +30,12 @@
 	"lang": "Tamil",
 	"channelCategoryId": 1,
 	"category": "Sports",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0
 }, {
 	"name": "ICC English",
 	"icon": "",
-	"link": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/PtJN1afq5q4A_IF1eIax7YIpN_vrR95pCEVncSbOMfWA1jaUQCrOJrod2v6NDKdyq6fCuMtSCBSM8QBdK0D-Hg/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
+	"link": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/8SB3_LeaWioSPEvEFnCY63EDTnN0oXgMg9WlQar2yHjKnsgXTqVr_zNIp8YxovrHaFwukIcVw8MTeWjSfXcp0w/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
