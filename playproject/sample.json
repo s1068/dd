@@ -275,5 +275,69 @@
 	}, {
 		"name": "One hour frame counter (MP4)",
 		"link": "https://storage.googleapis.com/exoplayer-test-media-1/mp4/frame-counter-one-hour.mp4"
+	}, {
+		"name": "More Sample",
+		"more": "more",
+		"content": [{
+			"name": "DASH Shaka Angel One - clear",
+			"link": "https://storage.googleapis.com/shaka-demo-assets/angel-one/dash.mpd"
+		}, {
+			"name": "DASH Shaka Angel One - Widevine DRM",
+			"link": "https://storage.googleapis.com/shaka-demo-assets/angel-one-widevine/dash.mpd",
+			"drmScheme": "widevine",
+			"drmLicense": "https://cwip-shaka-proxy.appspot.com/no_auth"
+		}, {
+			"name": "DASH Edgeware Gorilla",
+			"link": "https://streambuilder-sp-cdn.edgeware.tv/__cl/cg:ingest/__c/gorilla/__op/default/__f/manifest.mpd"
+		}, {
+			"name": "DASH Axinom Widevine DRM",
+			"link": "https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_1080p.mpd",
+			"drmScheme": "widevine",
+			"drmLicense": "http://mtdeer.com/exostreamr/drm-proxy/multi-drm/widevine/"
+		}, {
+			"name": "DASH Axinom ClearKey DRM",
+			"link": "https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_1080p_ClearKey.mpd",
+			"drmScheme": "clearkey",
+			"drmLicense": "https://drm-clearkey-testvectors.axtest.net/AcquireLicense"
+		}, {
+			"name": "DASH Axinom Clear",
+			"link": "https://media.axprod.net/TestVectors/v7-Clear/Manifest_MultiPeriod_1080p.mpd"
+		}, {
+			"name": "DASH-IF Live",
+			"link": "https://livesim.dashif.org/livesim/testpic_2s/Manifest.mpd"
+		}, {
+			"name": "DASH Live Unified Streaming reference stream",
+			"link": "https://live.unified-streaming.com/scte35/scte35.isml/.mpd"
+		}, {
+			"name": "DASH Sintel Multi-lang audio/subtitle",
+			"link": "https://bitdash-a.akamaihd.net/content/sintel/sintel.mpd"
+		}, {
+			"name": "HLS Sintel Multi-lang audio/subtitle",
+			"link": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+		}, {
+			"name": "HLS Apple BipBop H.264",
+			"link": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8"
+		}, {
+			"name": "HLS Apple BipBop HEVC",
+			"link": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8"
+		}, {
+			"name": "MSS Tears Of Steel",
+			"link": "https://amssamples.streaming.mediaservices.windows.net/bc57e088-27ec-44e0-ac20-a85ccbcd50da/TearsOfSteel.ism/manifest"
+		}, {
+			"name": "MSS Elephants Dream Multi Audio",
+			"link": "http://amssamples.streaming.mediaservices.windows.net/7ceb010f-d9a3-467a-915e-5728acced7e3/ElephantsDreamMultiAudio.ism/manifest"
+		}, {
+			"name": "MSS Live",
+			"link": "https://b028.wpc.azureedge.net/80B028/Samples/a38e6323-95e9-4f1f-9b38-75eba91704e4/5f2ce531-d508-49fb-8152-647eba422aec.ism/Manifest"
+		}, {
+			"name": "Progressive MP4",
+			"link": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/MI201109210084_mpeg-4_hd_high_1080p25_10mbits.mp4"
+		}, {
+			"name": "Progressive MP4 Sintel",
+			"link": "http://bitdash-a.akamaihd.net/content/sintel/Sintel.mp4"
+		}, {
+			"name": "Progressive MP4 Popeye Public Domain Cartoon",
+			"link": "https://ia800204.us.archive.org/34/items/popeye_patriotic_popeye/popeye_patriotic_popeye_512kb.mp4"
+		}]
 	}]
 }]
