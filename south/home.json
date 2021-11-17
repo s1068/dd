@@ -30,7 +30,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "Sports",
-	"visibility": "yes",
+	"visibility": "no",
 	"channelId": 0
 }, {
 	"name": "ICC 2",
@@ -47,7 +47,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "Sports",
-	"visibility": "yes",
+	"visibility": "no",
 	"channelId": 0
 }, {
 	"name": "DD India",
