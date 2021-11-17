@@ -16,7 +16,7 @@
 	"visibility": "no",
 	"channelId": 0
 }, {
-	"name": "ICC English",
+	"name": "ICC",
 	"icon": "",
 	"link": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/V41xTS4qG3Nx0muyP_ZEiMv-GKXHHQKwsCeK-32axKF6GdNgZN7UzTCkgDNtdfv1-WAVwlgja2z9gr8PDyTvHA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
 	"drmScheme": "",
