@@ -33,6 +33,23 @@
 	"visibility": "yes",
 	"channelId": 0
 }, {
+	"name": "ICC 2",
+	"icon": "",
+	"link": "http://51.254.27.115:8081/gulfnews/abc_index/playlist.m3u8",
+	"drmScheme": "",
+	"drmLicense": "",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10; Mi A2 Build/QKQ1.190910.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.4638.74 Mobile Safari/537.36",
+	"refer": "",
+	"origin": "",
+	"cook": "",
+	"source": "dd",
+	"channelLanguageId": 5,
+	"lang": "English",
+	"channelCategoryId": 1,
+	"category": "Sports",
+	"visibility": "yes",
+	"channelId": 0
+}, {
 	"name": "DD India",
 	"icon": "ddindia.jpg",
 	"link": "UCGDQNvybfDDeGTf4GtigXaw",
