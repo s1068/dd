@@ -1,25 +1,44 @@
 [{
 	"name": "Clear DASH - HD (MP4, H264)",
+	"link": "https://storage.googleapis.com/wvmedia/clear/h264/tears/tears.mpd"
+}, {
+	"name": "Clear DASH - HD (MP4, H264)",
 	"link": "https://storage.googleapis.com/wvmedia/clear/h264/tears/tears.mpd",
-	"extraHeader": ["cookie", "welcome1", "referer", "extra"]
+	"userAgent": ""
+}, {
+	"name": "Clear DASH - HD (MP4, H264)",
+	"link": "https://storage.googleapis.com/wvmedia/clear/h264/tears/tears.mpd",
+	"extraHeader": ["cookie", "", "referer", "", "origin", ""]
+}, {
+	"name": "Clear DASH - HD (MP4, H264)",
+	"link": "https://storage.googleapis.com/wvmedia/clear/h264/tears/tears.mpd",
+	"userAgent": "",
+	"extraHeader": ["cookie", "", "referer", "", "origin", ""]
+}, {
+	"name": "Clear DASH - HD (MP4, H264)",
+	"link": "https://storage.googleapis.com/wvmedia/clear/h264/tears/tears.mpd",
+	"userAgent": "",
+	"cookie": "",
+	"referer": "",
+	"origin": "",
+	"drmScheme": "",
+	"drmLicense": ""
 }, {
 	"name": "Widevine DASH (MP4, H264) - HD (cenc)",
 	"link": "https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd",
-	"cookie": "welcome2",
 	"drmScheme": "widevine",
-	"drmLicense": "https://proxy.uat.widevine.com/proxy?provider=widevine_test",
-	"extraHeader": []
-}, {
-	"name": "Widevine DASH (WebM, VP9) - UHD (cenc, full-sample)",
-	"link": "https://storage.googleapis.com/wvmedia/cenc/vp9/tears/tears_uhd.mpd",
-	"cookie": "welcome3",
-	"drmScheme": "widevine",
-	"drmLicense": "https://proxy.uat.widevine.com/proxy?provider=widevine_test",
-	"extraHeader": ["test", "test"]
+	"drmLicense": "https://proxy.uat.widevine.com/proxy?provider=widevine_test"
 }, {
 	"name": "Widevine DASH (policy tests) -SW secure decode",
 	"link": "https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd",
+	"userAgent": "",
 	"drmScheme": "widevine",
-	"drmLicense": "https://proxy.uat.widevine.com/proxy?video_id=GTS_SW_SECURE_DECODE&provider=widevine_test",
-	"extraHeader": ["welcome"]
+	"drmLicense": "https://proxy.uat.widevine.com/proxy?video_id=GTS_SW_SECURE_DECODE&provider=widevine_test"
+}, {
+	"name": "Widevine DASH (WebM, VP9) - UHD (cenc, full-sample)",
+	"link": "https://storage.googleapis.com/wvmedia/cenc/vp9/tears/tears_uhd.mpd",
+	"userAgent": "",
+	"drmScheme": "widevine",
+	"drmLicense": "https://proxy.uat.widevine.com/proxy?provider=widevine_test",
+	"extraHeader": ["cookie", "", "referer", "", "origin", ""]
 }]
