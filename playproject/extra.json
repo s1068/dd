@@ -1,9 +1,7 @@
 [{
 	"name": "Clear DASH - HD (MP4, H264)",
 	"link": "https://storage.googleapis.com/wvmedia/clear/h264/tears/tears.mpd",
-	"cookie": "hello",
-	"referer": "hello",
-	"extra": ["test", "test"]
+	"extra": ["cookie", "hello", "referer", "hello"]
 }, {
 	"name": "Widevine DASH (MP4, H264) - HD (cenc)",
 	"link": "https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd",
