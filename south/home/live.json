@@ -265,7 +265,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 2,
 	"category": "Entertainment",
-	"visibility": "yes",
+	"visibility": "no",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -2229,13 +2229,13 @@
 	"lang": "Kannada",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "yes",
+	"visibility": "no",
 	"channelId": 0,
 	"extra": []
 }, {
 	"name": "Raj News Telugu",
 	"icon": "",
-	"link": "UC0Bj4Nb_UfHvW5Oe2f8aCFg",
+	"link": "UCLF6LTfTX_eO-LeLbarKlvw",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
