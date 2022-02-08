@@ -729,7 +729,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "yes",
+	"visibility": "no",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -774,7 +774,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "yes",
+	"visibility": "no",
 	"channelId": 913,
 	"extra": ["Origin", "https://lotusnews.tv", "Referer", "https://lotusnews.tv/"]
 }, {
