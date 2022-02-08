@@ -179,9 +179,9 @@
 	"channelId": 727,
 	"extra": []
 }, {
-	"name": "NTV Trichy",
-	"icon": "ntvtn.png",
-	"link": "http://185.105.4.244:1935/live/ntv/playlist.m3u8",
+	"name": "N Tv",
+	"icon": "",
+	"link": "https://server3.iptelevision.in/hls/ntv.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -191,7 +191,7 @@
 	"channelCategoryId": 3,
 	"category": "Music",
 	"visibility": "yes",
-	"channelId": 646,
+	"channelId": 0,
 	"extra": []
 }, {
 	"name": "Kalai ISAI",
