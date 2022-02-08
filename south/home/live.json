@@ -100,7 +100,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 2,
 	"category": "Entertainment",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -131,36 +131,6 @@
 	"channelCategoryId": 3,
 	"category": "Music",
 	"visibility": "yes",
-	"channelId": 0,
-	"extra": []
-}, {
-	"name": "Akaram TV",
-	"icon": "akaramtv.png",
-	"link": "http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 2,
-	"category": "Entertainment",
-	"visibility": "no",
-	"channelId": 0,
-	"extra": []
-}, {
-	"name": "Akaram Mix",
-	"icon": "akarammix.png",
-	"link": "http://akaram.zecast.net/akaram-live/akarammix1/playlist.m3u8",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 3,
-	"category": "News",
-	"visibility": "no",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -224,21 +194,6 @@
 	"channelId": 646,
 	"extra": []
 }, {
-	"name": "Netrikgun TV",
-	"icon": "netrikgun.png",
-	"link": "http://artech.livebox.co.in/netrikguntvhls/live.m3u8",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 2,
-	"category": "Entertainment",
-	"visibility": "no",
-	"channelId": 0,
-	"extra": []
-}, {
 	"name": "Kalai ISAI",
 	"icon": "kalaiisai.png",
 	"link": "http://singamcloud.in:1935/kalai/kalaiisai/playlist.m3u8",
@@ -251,21 +206,6 @@
 	"channelCategoryId": 3,
 	"category": "Music",
 	"visibility": "yes",
-	"channelId": 0,
-	"extra": []
-}, {
-	"name": "Kalai Cinima",
-	"icon": "kalaichinema.png",
-	"link": "http://live.singamcloud.in:6931/srtsingamcloud/srt.stream/playlist.m3u8",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 2,
-	"category": "Entertainment",
-	"visibility": "no",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -1479,22 +1419,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
-	"channelId": 0,
-	"extra": []
-}, {
-	"name": "Channels Television",
-	"icon": "channeltv.jpg",
-	"link": "UCEXGDNclvmg6RW0vipJYsTQ",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "",
-	"source": "ytc",
-	"channelLanguageId": 5,
-	"lang": "English",
-	"channelCategoryId": 1,
-	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -1509,7 +1434,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -1599,7 +1524,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -1665,7 +1590,7 @@
 }, {
 	"name": "NBC2 News",
 	"icon": "NBC2news.jpg",
-	"link": "tPeUHECNLKs",
+	"link": "UCIYVU7fPs_n6gJIBso3ryeg",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -1674,7 +1599,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -2173,21 +2098,6 @@
 	"channelId": 0,
 	"extra": []
 }, {
-	"name": "N Tv",
-	"icon": "",
-	"link": "https://5c75277727cd1.streamlock.net/Ntvlive/Ntvlive/playlist.m3u8",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "",
-	"source": "dd",
-	"channelLanguageId": 2,
-	"lang": "Malayalam",
-	"channelCategoryId": 2,
-	"category": "Entertainment",
-	"visibility": "no",
-	"channelId": 0,
-	"extra": []
-}, {
 	"name": "UTV PKD",
 	"icon": "utv.png",
 	"link": "http://live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/index.m3u8",
@@ -2215,21 +2125,6 @@
 	"channelCategoryId": 1,
 	"category": "News",
 	"visibility": "yes",
-	"channelId": 0,
-	"extra": []
-}, {
-	"name": "Raj News Kannada",
-	"icon": "",
-	"link": "UC1abnILK02wsS8te-ysAuvg",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "",
-	"source": "ytc",
-	"channelLanguageId": 3,
-	"lang": "Kannada",
-	"channelCategoryId": 1,
-	"category": "News",
-	"visibility": "no",
 	"channelId": 0,
 	"extra": []
 }, {
