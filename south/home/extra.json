@@ -1,6 +1,21 @@
 [{
 	"name": "IPL",
 	"icon": "",
+	"link": "http://116.203.47.70:8081/worldgcc/spcric/playlist.m3u8http://95.217.21.119:8081/worldgcc/apluse/playlist.m3u8",
+	"drmScheme": "",
+	"drmLicense": "",
+	"userAgent": "Dalvik/2.1.0 (Linux; U; Android 10; Mi A3 Build/QKQ1.190910.002)",
+	"source": "dd",
+	"channelLanguageId": 5,
+	"lang": "English",
+	"channelCategoryId": 5,
+	"category": "Sports",
+	"visibility": "yes",
+	"channelId": 0,
+	"extra": []
+}, {
+	"name": "IPL",
+	"icon": "",
 	"link": "http://95.217.21.119:8081/worldgcc/apluse/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
