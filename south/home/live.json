@@ -1,22 +1,19 @@
 [{
 	"name": "IPL English",
 	"icon": "",
-	"link": "442211c",
+	"link": "http://65.108.214.248:8081/worldgcc/sd_english/playlist.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
-	"userAgent": "",
-	"source": "twitch",
+	"userAgent": "Dalvik/2.1.0 (Linux; U; Android 10; Mi A3 Build/QKQ1.190910.002)",
+	"source": "dd",
 	"channelLanguageId": 5,
 	"lang": "English",
 	"channelCategoryId": 5,
 	"category": "Sports",
 	"visibility": "yes",
 	"channelId": 0,
-	"extra": [{
-		"refer": "https://www.twitch.tv/",
-		"origin": "https://www.twitch.tv"
-	}]
-}, {
+	"extra": []
+},{
 	"name": "DD India",
 	"icon": "ddindia.jpg",
 	"link": "UCGDQNvybfDDeGTf4GtigXaw",
