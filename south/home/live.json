@@ -166,7 +166,7 @@
 }, {
 	"name": "Advika Tv",
 	"icon": "",
-	"link": "Advika Tv",
+	"link": "http://bmlive.net:8000/paulveernan/advika/bms.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
