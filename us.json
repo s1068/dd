@@ -18,4 +18,9 @@
 	"imageUrl": "Vasanthtv.jpg",
 	"playLink": "http://bmlive.net:8000/BALATV/balatv/bms.m3u8",
 	"source": "dd"
+}, {
+	"name": "Polimer News",
+	"imageUrl": "Polimer.png",
+	"playLink": "UC8Z-VjXBtDJTvq6aqkIskPg",
+	"source": "yt"
 }]
