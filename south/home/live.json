@@ -10,7 +10,7 @@
 	"lang": "English",
 	"channelCategoryId": 5,
 	"category": "Sports",
-	"visibility": "yes",
+	"visibility": "no",
 	"channelId": 0,
 	"extra": ["Origin", "https://twitch.tv", "Referer", "https://twitch.tv/"]
 }, {
@@ -106,7 +106,7 @@
 }, {
 	"name": "EET TV",
 	"icon": "eetv.png",
-	"link": "https://eu.streamjo.com/eetlive/eettv.m3u8",
+	"link": "https://live.streamjo.com/eetlive/eettv.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
