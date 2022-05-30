@@ -1,0 +1,21 @@
+[{
+	"name": "Milky Tv",
+	"imageUrl": "",
+	"playLink": "http://bmlive.net:8000/paulveernan/milky/bms.m3u8",
+	"source": "dd"
+}, {
+	"name": "Advika Tv",
+	"imageUrl": "",
+	"link": "http://bmlive.net:8000/paulveernan/advika/bms.m3u8",
+	"source": "dd"
+}, {
+	"name": "SreeSaravanaa Tv",
+	"imageUrl": "",
+	"playLink": "http://bmlive.net:8000/BALATV/sreesaravanaa/bms.m3u8",
+	"source": "dd"
+}, {
+	"name": "Bala Tv",
+	"imageUrl": "",
+	"playLink": "http://bmlive.net:8000/BALATV/balatv/bms.m3u8",
+	"source": "dd"
+}]
