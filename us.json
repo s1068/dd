@@ -2,25 +2,40 @@
 	"name": "Milky Tv",
 	"imageUrl": "Vasanthtv.jpg",
 	"playLink": "http://bmlive.net:8000/paulveernan/milky/bms.m3u8",
+	"userAgent": "",
+	"drmScheme": "",
+	"drmLicense": "",
 	"source": "dd"
 }, {
 	"name": "Advika Tv",
 	"imageUrl": "Vasanthtv.jpg",
 	"link": "http://bmlive.net:8000/paulveernan/advika/bms.m3u8",
+	"userAgent": "",
+	"drmScheme": "",
+	"drmLicense": "",
 	"source": "dd"
 }, {
 	"name": "SreeSaravanaa Tv",
 	"imageUrl": "Vasanthtv.jpg",
 	"playLink": "http://bmlive.net:8000/BALATV/sreesaravanaa/bms.m3u8",
+	"userAgent": "",
+	"drmScheme": "",
+	"drmLicense": "",
 	"source": "dd"
 }, {
 	"name": "Bala Tv",
 	"imageUrl": "Vasanthtv.jpg",
 	"playLink": "http://bmlive.net:8000/BALATV/balatv/bms.m3u8",
+	"userAgent": "",
+	"drmScheme": "",
+	"drmLicense": "",
 	"source": "dd"
 }, {
 	"name": "Polimer News",
 	"imageUrl": "Polimer.png",
 	"playLink": "UC8Z-VjXBtDJTvq6aqkIskPg",
+	"userAgent": "",
+	"drmScheme": "",
+	"drmLicense": "",
 	"source": "yt"
 }]
