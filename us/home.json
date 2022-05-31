@@ -16,7 +16,7 @@
 	"source": "dd"
 }, {
 	"name": "VeerBox Tv",
-	"imageUrl": "athiviga.png",
+	"imageUrl": "veerbox.png",
 	"playLink": "rtmp://bmlive.net:1935/veerboxhd/veerboxhd",
 	"userAgent": "",
 	"drmScheme": "",
