@@ -9,7 +9,7 @@
 }, {
 	"name": "Advika Tv",
 	"imageUrl": "Vasanthtv.jpg",
-	"link": "http://bmlive.net:8000/paulveernan/advika/bms.m3u8",
+	"playLink": "http://bmlive.net:8000/paulveernan/advika/bms.m3u8",
 	"userAgent": "",
 	"drmScheme": "",
 	"drmLicense": "",
