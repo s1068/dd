@@ -1,6 +1,14 @@
 [{
+	"name": "Accord Voice Tv",
+	"imageUrl": "accordvoice.png",
+	"playLink": "rtmp://51.79.254.195:1935/accordvoice/accordvoice",
+	"userAgent": "",
+	"drmScheme": "",
+	"drmLicense": "",
+	"source": "dd"
+}, {
 	"name": "Milky Tv",
-	"imageUrl": "milkyu.png",
+	"imageUrl": "milkytv.png",
 	"playLink": "http://bmlive.net:8000/paulveernan/milky/bms.m3u8",
 	"userAgent": "",
 	"drmScheme": "",
@@ -8,7 +16,7 @@
 	"source": "dd"
 }, {
 	"name": "Advika Tv",
-	"imageUrl": "athiviga.png",
+	"imageUrl": "advika.png",
 	"playLink": "http://bmlive.net:8000/paulveernan/advika/bms.m3u8",
 	"userAgent": "",
 	"drmScheme": "",
@@ -24,7 +32,7 @@
 	"source": "dd"
 }, {
 	"name": "SreeSaravanaa Tv",
-	"imageUrl": "srisaravana.png",
+	"imageUrl": "sreesaravana.png",
 	"playLink": "http://bmlive.net:8000/BALATV/sreesaravanaa/bms.m3u8",
 	"userAgent": "",
 	"drmScheme": "",
@@ -32,7 +40,7 @@
 	"source": "dd"
 }, {
 	"name": "SS Tv",
-	"imageUrl": "sstvu.png",
+	"imageUrl": "sstv.png",
 	"playLink": "http://bmlive.net:8000/BALATV/balatv/bms.m3u8",
 	"userAgent": "",
 	"drmScheme": "",
