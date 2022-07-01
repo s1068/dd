@@ -1,6 +1,6 @@
 {
-	"version": "1.0",
-	"versionCode": 1,
+	"version": "4.0",
+	"versionCode": 40,
 	"link": "https://play.google.com/store/apps/details?id=com.genuine.leone",
-	"note": "- Improved Player layout\n- Bug fixed \n- Supported to Android 12"
+	"note": "- Supported android 13\n- Bug fixes and performance improvements"
 }
