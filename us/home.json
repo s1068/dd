@@ -1,7 +1,7 @@
 [{
 	"name": "Accord Voice Tv",
 	"imageUrl": "accordvoice.png",
-	"playLink": "rtmp://51.79.254.195:1935/accordvoice/accordvoice",
+	"playLink": "rtmp://mobile.iptelevision.in/live/accordvoice",
 	"userAgent": "",
 	"drmScheme": "",
 	"drmLicense": "",
