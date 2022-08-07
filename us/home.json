@@ -9,7 +9,7 @@
 }, {
 	"name": "Milky Tv",
 	"imageUrl": "milkytv.png",
-	"playLink": "http://bmlive.net:8000/paulveernan/milky/bms.m3u8",
+	"playLink": "http://bmlive.net:8000/balaaravinth/milky/bms.m3u8",
 	"userAgent": "",
 	"drmScheme": "",
 	"drmLicense": "",
