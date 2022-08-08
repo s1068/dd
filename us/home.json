@@ -41,7 +41,7 @@
 }, {
 	"name": "SS Tv",
 	"imageUrl": "sstv.png",
-	"playLink": "http://bmlive.net:8000/BALATV/balatv/bms.m3u8",
+	"playLink": "http://bmlive.net:8000/balaaravinth/music/bms.m3u8",
 	"userAgent": "",
 	"drmScheme": "",
 	"drmLicense": "",
