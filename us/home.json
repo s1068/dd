@@ -46,12 +46,4 @@
 	"drmScheme": "",
 	"drmLicense": "",
 	"source": "dd"
-}, {
-	"name": "Accord Voice HD",
-	"imageUrl": "accordvoicehd.png",
-	"playLink": "http://bmlive.net:8000/BALATV/veerbox/bms.m3u8",
-	"userAgent": "",
-	"drmScheme": "",
-	"drmLicense": "",
-	"source": "dd"
 }]
