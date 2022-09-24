@@ -1,7 +1,7 @@
 [{
-	"name": "IPL English",
+	"name": "test twit",
 	"icon": "",
-	"link": "442211c",
+	"link": "xqc",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -10,7 +10,7 @@
 	"lang": "English",
 	"channelCategoryId": 5,
 	"category": "Sports",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": ["Origin", "https://twitch.tv", "Referer", "https://twitch.tv/"]
 }, {
