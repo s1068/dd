@@ -12,7 +12,7 @@
 	"category": "Sports",
 	"visibility": "yes",
 	"channelId": 0,
-	"extra": ["Origin", "https://twitch.tv", "Referer", "https://twitch.tv/"]
+	"extra": ["Origin", "https://twitch.tv", "Referer", "https://twitch.tv/","hello","test"]
 }, {
 	"name": "DD India",
 	"icon": "ddindia.jpg",
