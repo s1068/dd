@@ -1,7 +1,7 @@
 [{
-	"name": "test twit",
+	"name": "IPL English",
 	"icon": "",
-	"link": "sypherpk",
+	"link": "442211c",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -10,9 +10,9 @@
 	"lang": "English",
 	"channelCategoryId": 5,
 	"category": "Sports",
-	"visibility": "yes",
+	"visibility": "no",
 	"channelId": 0,
-	"extra": ["Origin", "https://twitch.tv", "Referer", "https://twitch.tv/","hello","test"]
+	"extra": ["Origin", "https://twitch.tv", "Referer", "https://twitch.tv/"]
 }, {
 	"name": "DD India",
 	"icon": "ddindia.jpg",
@@ -549,7 +549,7 @@
 	"lang": "Malayalam",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 1408,
 	"extra": ["Origin", "https://www.yupptv.com", "Referer", "https://www.yupptv.com/"]
 }, {
@@ -804,7 +804,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -849,7 +849,7 @@
 	"lang": "Tamil",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 913,
 	"extra": ["Origin", "https://lotusnews.tv", "Referer", "https://lotusnews.tv/"]
 }, {
@@ -879,7 +879,7 @@
 	"lang": "Kannada",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 778,
 	"extra": ["Origin", "https://www.yupptv.com", "Referer", "https://www.yupptv.com/"]
 }, {
@@ -909,7 +909,7 @@
 	"lang": "Kannada",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -924,7 +924,7 @@
 	"lang": "Kannada",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 653,
 	"extra": []
 }, {
@@ -939,7 +939,7 @@
 	"lang": "Kannada",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -954,7 +954,7 @@
 	"lang": "Kannada",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -1179,7 +1179,7 @@
 	"lang": "Telugu",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 614,
 	"extra": []
 }, {
@@ -1194,7 +1194,7 @@
 	"lang": "Telugu",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 630,
 	"extra": []
 }, {
@@ -1299,7 +1299,7 @@
 	"lang": "Telugu",
 	"channelCategoryId": 2,
 	"category": "Entertainment",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -1314,7 +1314,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 493,
 	"extra": []
 }, {
@@ -1329,7 +1329,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 255,
 	"extra": []
 }, {
@@ -1344,7 +1344,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 492,
 	"extra": []
 }, {
@@ -1359,7 +1359,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 412,
 	"extra": []
 }, {
@@ -1374,7 +1374,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 858,
 	"extra": []
 }, {
@@ -1389,7 +1389,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 383,
 	"extra": []
 }, {
@@ -1404,7 +1404,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 143,
 	"extra": []
 }, {
@@ -1419,7 +1419,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 212,
 	"extra": []
 }, {
@@ -1434,7 +1434,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 491,
 	"extra": []
 }, {
@@ -1449,7 +1449,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 787,
 	"extra": []
 }, {
@@ -1464,7 +1464,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -1479,7 +1479,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -1494,7 +1494,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -1509,7 +1509,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -1524,7 +1524,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 494,
 	"extra": []
 }, {
@@ -1539,7 +1539,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -1554,7 +1554,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -1569,7 +1569,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -1584,7 +1584,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -1599,7 +1599,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -1614,7 +1614,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -1629,7 +1629,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -1644,7 +1644,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -1659,7 +1659,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -1674,7 +1674,7 @@
 	"lang": "English",
 	"channelCategoryId": 1,
 	"category": "News",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -1689,7 +1689,7 @@
 	"lang": "English",
 	"channelCategoryId": 4,
 	"category": "Kids",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -1704,7 +1704,7 @@
 	"lang": "English",
 	"channelCategoryId": 4,
 	"category": "Kids",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
@@ -1719,7 +1719,7 @@
 	"lang": "English",
 	"channelCategoryId": 4,
 	"category": "Kids",
-	"visibility": "no",
+	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
 }, {
