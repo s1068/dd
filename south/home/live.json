@@ -1,19 +1,4 @@
 [{
-	"name": "IPL English",
-	"icon": "",
-	"link": "442211c",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "",
-	"source": "twitch",
-	"channelLanguageId": 5,
-	"lang": "English",
-	"channelCategoryId": 5,
-	"category": "Sports",
-	"visibility": "no",
-	"channelId": 0,
-	"extra": ["Origin", "https://twitch.tv", "Referer", "https://twitch.tv/"]
-}, {
 	"name": "DD India",
 	"icon": "ddindia.jpg",
 	"link": "UCGDQNvybfDDeGTf4GtigXaw",
