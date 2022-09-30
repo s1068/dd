@@ -329,21 +329,6 @@
 	"channelId": 0,
 	"extra": []
 }, {
-	"name": "Analai Express",
-	"icon": "",
-	"link": "eyetamil",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "",
-	"source": "twitch",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 3,
-	"category": "Music",
-	"visibility": "yes",
-	"channelId": 0,
-	"extra": ["Origin", "https://player.twitch.tv", "Referer", "https://player.twitch.tv/"]
-}, {
 	"name": "Hindu God Songs",
 	"icon": "",
 	"link": "UCx3--yoxFz4RF13KMGH7__g",
