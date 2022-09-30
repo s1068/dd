@@ -538,6 +538,21 @@
 	"channelId": 0,
 	"extra": []
 }, {
+	"name": "IDHAYAMTV TV",
+	"icon": "",
+	"link": "IDHAYAMTV",
+	"drmScheme": "",
+	"drmLicense": "",
+	"userAgent": "",
+	"source": "ytc",
+	"channelLanguageId": 1,
+	"lang": "Tamil",
+	"channelCategoryId": 6,
+	"category": "Devotional",
+	"visibility": "yes",
+	"channelId": 0,
+	"extra": []
+}, {
 	"name": "Puthiya Thalaimurai",
 	"icon": "PuthiyaThalaimurai.jpg",
 	"link": "UCmyKnNRH0wH-r8I-ceP-dsg",
@@ -1768,13 +1783,13 @@
 	"channelId": 0,
 	"extra": []
 }, {
-	"name": "IDHAYAMTV TV",
-	"icon": "",
-	"link": "IDHAYAMTV",
+	"name": "Mahimai tv",
+	"icon": "Mahimai.png",
+	"link": "https://sscloud7.com/mahimaitv.m3u8",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
-	"source": "ytc",
+	"source": "dd",
 	"channelLanguageId": 1,
 	"lang": "Tamil",
 	"channelCategoryId": 6,
