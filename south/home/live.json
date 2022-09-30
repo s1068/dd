@@ -750,22 +750,22 @@
 }, {
 	"name": "Lotus news",
 	"icon": "Lotusnews.jpeg",
-	"link": "https://jk3lzaj4dw79-hls-live.5centscdn.com/stream/508c75c8507a2ae5223dfd2faeb98122.sdp/playlist.m3u8",
+	"link": "UCZPBEt3FJssk0sP4qiF-mBw",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
-	"source": "dd",
+	"source": "ytc",
 	"channelLanguageId": 1,
 	"lang": "Tamil",
 	"channelCategoryId": 1,
 	"category": "News",
 	"visibility": "yes",
 	"channelId": 913,
-	"extra": ["Origin", "https://lotusnews.tv", "Referer", "https://lotusnews.tv/"]
+	"extra": []
 }, {
 	"name": "SVBC Kannada",
 	"icon": "SVBC.jpg",
-	"link": "UCS2Y83GD-fc7qqgNW5uj41g",
+	"link": "UCGa1p3XE8IRtpkPXOe0nFdw",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
