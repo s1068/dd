@@ -838,17 +838,17 @@
 	"channelId": 0,
 	"extra": []
 }, {
-	"name": "Etv Bharath Kannada",
-	"icon": "kannadaetv.png",
-	"link": "https://etvbharatlive5.akamaized.net/hls/live/710671/kannada/index_540p.m3u8",
+	"name": "Kannada Bhakthi Songs",
+	"icon": "",
+	"link": "UC4ErS6cncrKu8YzBau2UfSg",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
-	"source": "dd",
+	"source": "ytc",
 	"channelLanguageId": 3,
 	"lang": "Kannada",
-	"channelCategoryId": 1,
-	"category": "News",
+	"channelCategoryId": 6,
+	"category": "Devotional",
 	"visibility": "yes",
 	"channelId": 653,
 	"extra": []
