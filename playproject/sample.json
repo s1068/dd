@@ -292,11 +292,6 @@
 		"name": "DASH Edgeware Gorilla",
 		"link": "https://streambuilder-sp-cdn.edgeware.tv/__cl/cg:ingest/__c/gorilla/__op/default/__f/manifest.mpd"
 	}, {
-		"name": "DASH Axinom Widevine DRM",
-		"link": "https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_1080p.mpd",
-		"drmScheme": "widevine",
-		"drmLicense": "http://mtdeer.com/exostreamr/drm-proxy/multi-drm/widevine/"
-	}, {
 		"name": "DASH Axinom ClearKey DRM",
 		"link": "https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_1080p_ClearKey.mpd",
 		"drmScheme": "clearkey",
@@ -307,9 +302,6 @@
 	}, {
 		"name": "DASH-IF Live",
 		"link": "https://livesim.dashif.org/livesim/testpic_2s/Manifest.mpd"
-	}, {
-		"name": "DASH Live Unified Streaming reference stream",
-		"link": "https://live.unified-streaming.com/scte35/scte35.isml/.mpd"
 	}, {
 		"name": "DASH Sintel Multi-lang audio/subtitle",
 		"link": "https://bitdash-a.akamaihd.net/content/sintel/sintel.mpd"
@@ -328,9 +320,6 @@
 	}, {
 		"name": "MSS Elephants Dream Multi Audio",
 		"link": "http://amssamples.streaming.mediaservices.windows.net/7ceb010f-d9a3-467a-915e-5728acced7e3/ElephantsDreamMultiAudio.ism/manifest"
-	}, {
-		"name": "MSS Live",
-		"link": "https://b028.wpc.azureedge.net/80B028/Samples/a38e6323-95e9-4f1f-9b38-75eba91704e4/5f2ce531-d508-49fb-8152-647eba422aec.ism/Manifest"
 	}, {
 		"name": "Progressive MP4",
 		"link": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/MI201109210084_mpeg-4_hd_high_1080p25_10mbits.mp4"
