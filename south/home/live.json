@@ -181,18 +181,18 @@
   }, {
   	"name": "RASI TV",
   	"icon": "",
-  	"link": "http://singamcloud.in:80/rasinetworks/rasitv/index.m3u8",
+  	"link": "5001133",
   	"drmScheme": "",
   	"drmLicense": "",
   	"userAgent": "",
-  	"source": "dd",
+  	"source": "twitch",
   	"channelLanguageId": 1,
   	"lang": "Tamil",
   	"channelCategoryId": 2,
   	"category": "Entertainment",
   	"visibility": "yes",
   	"channelId": 0,
-  	"extra": []
+  	"extra": ["Origin", "https://twitch.tv", "Referer", "https://twitch.tv/"]
   }, {
   	"name": "RASI TAMIL",
   	"icon": "",
