@@ -119,21 +119,6 @@
   	"channelId": 0,
   	"extra": []
   }, {
-  	"name": "Big Bos",
-  	"icon": "",
-  	"link": "yilejo4651",
-  	"drmScheme": "",
-  	"drmLicense": "",
-  	"userAgent": "",
-  	"source": "twitch",
-  	"channelLanguageId": 5,
-  	"lang": "English",
-  	"channelCategoryId": 1,
-  	"category": "News",
-  	"visibility": "yes",
-  	"channelId": 0,
-  	"extra": ["Origin", "https://twitch.tv", "Referer", "https://twitch.tv/"]
-  }, {
   	"name": "Milky Tv",
   	"icon": "",
   	"link": "http://bmlive.net:8000/balaaravinth/milky/bms.m3u8",
