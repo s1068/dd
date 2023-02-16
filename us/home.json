@@ -9,7 +9,7 @@
 }, {
 	"name": "Milky Tv",
 	"imageUrl": "milkytv.png",
-	"playLink": "http://bmlive.net:8000/balaaravinth/milky/bms.m3u8",
+	"playLink": "https://1cloud.digital/advika/milky/1cloud.m3u8",
 	"userAgent": "",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -17,7 +17,7 @@
 }, {
 	"name": "Advika Tv",
 	"imageUrl": "advika.png",
-	"playLink": "http://bmlive.net:8000/paulveernan/advika/bms.m3u8",
+	"playLink": "https://1cloud.digital/advika/advika/1cloud.m3u8",
 	"userAgent": "",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -25,7 +25,7 @@
 }, {
 	"name": "VeerBox Tv",
 	"imageUrl": "veerbox.png",
-	"playLink": "rtmp://bmlive.net:1935/veerboxhd/veerboxhd",
+	"playLink": "https://1cloud.digital/advika/veerbox/1cloud.m3u8",
 	"userAgent": "",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -33,7 +33,7 @@
 }, {
 	"name": "SreeSaravanaa Tv",
 	"imageUrl": "sreesaravana.png",
-	"playLink": "http://bmlive.net:8000/BALATV/sreesaravanaa/bms.m3u8",
+	"playLink": "https://1cloud.digital/advika/sreesaravanaa/1cloud.m3u8",
 	"userAgent": "",
 	"drmScheme": "",
 	"drmLicense": "",
@@ -41,7 +41,7 @@
 }, {
 	"name": "SS Tv",
 	"imageUrl": "sstv.png",
-	"playLink": "http://bmlive.net:8000/balaaravinth/music/bms.m3u8",
+	"playLink": "https://1cloud.digital/advika/ssmusic/1cloud.m3u8",
 	"userAgent": "",
 	"drmScheme": "",
 	"drmLicense": "",
