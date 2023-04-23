@@ -46,4 +46,28 @@
 	"drmScheme": "",
 	"drmLicense": "",
 	"source": "dd"
+}, {
+	"name": "OneMovies",
+	"imageUrl": "onemovies.png",
+	"playLink": "rtmp://1cloud.digital:1935/onetv/onemovies",
+	"userAgent": "",
+	"drmScheme": "",
+	"drmLicense": "",
+	"source": "dd"
+}, {
+	"name": "OneHollywood",
+	"imageUrl": "onehollywood.png",
+	"playLink": "rtmp://1cloud.digital:1935/onetv/onehollywood",
+	"userAgent": "",
+	"drmScheme": "",
+	"drmLicense": "",
+	"source": "dd"
+}, {
+	"name": "prime",
+	"imageUrl": "prime.png",
+	"playLink": "rtmp://1cloud.digital:1935/onetv/prime",
+	"userAgent": "",
+	"drmScheme": "",
+	"drmLicense": "",
+	"source": "dd"
 }]
