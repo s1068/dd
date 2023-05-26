@@ -56,7 +56,7 @@
 	"source": "dd"
 }, {
 	"name": "OneHollywood",
-	"imageUrl": "onehollywood.png",
+	"imageUrl": "",
 	"playLink": "rtmp://1cloud.digital:1935/onetv/onehollywood",
 	"userAgent": "",
 	"drmScheme": "",
@@ -64,7 +64,7 @@
 	"source": "dd"
 }, {
 	"name": "omega",
-	"imageUrl": "prime.png",
+	"imageUrl": "",
 	"playLink": "rtmp://1cloud.digital:1935/omega/live",
 	"userAgent": "",
 	"drmScheme": "",
@@ -72,7 +72,7 @@
 	"source": "dd"
 }, {
 	"name": "Bharathitv",
-	"imageUrl": "bharathitv.png",
+	"imageUrl": "",
 	"playLink": "rtmp://1cloud.digital/karnan/bharathitv",
 	"userAgent": "",
 	"drmScheme": "",
