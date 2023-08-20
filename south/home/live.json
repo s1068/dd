@@ -194,21 +194,6 @@
 	"channelId": 727,
 	"extra": []
 }, {
-	"name": "Kalai ISAI",
-	"icon": "kalaiisai.png",
-	"link": "http://singamcloud.in/kalai/kalaiisai/index.m3u8",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 3,
-	"category": "Music",
-	"visibility": "yes",
-	"channelId": 0,
-	"extra": []
-}, {
 	"name": "Hindu God Songs",
 	"icon": "",
 	"link": "UCx3--yoxFz4RF13KMGH7__g",
