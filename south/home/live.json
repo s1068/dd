@@ -74,21 +74,6 @@
 	"channelId": 713,
 	"extra": []
 }, {
-	"name": "Kalvi",
-	"icon": "",
-	"link": "http://nextgeninfotech.ddns.net:8080/kalvisolai/kalvisolai.m3u8",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 1,
-	"category": "News",
-	"visibility": "yes",
-	"channel_id": 0,
-	"extra": []
-}, {
 	"name": "TVI TV",
 	"icon": "tvihd.png",
 	"link": "http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8",
@@ -209,21 +194,6 @@
 	"channelId": 727,
 	"extra": []
 }, {
-	"name": "N Tv",
-	"icon": "",
-	"link": "https://server3.iptelevision.in/hls/ntv.m3u8",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 3,
-	"category": "Music",
-	"visibility": "yes",
-	"channelId": 0,
-	"extra": []
-}, {
 	"name": "Kalai ISAI",
 	"icon": "kalaiisai.png",
 	"link": "http://singamcloud.in/kalai/kalaiisai/index.m3u8",
@@ -250,21 +220,6 @@
 	"lang": "Tamil",
 	"channelCategoryId": 6,
 	"category": "Devotional",
-	"visibility": "yes",
-	"channelId": 0,
-	"extra": []
-}, {
-	"name": "Ultramax TV",
-	"icon": "utvhd.jpg",
-	"link": "http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 2,
-	"category": "Entertainment",
 	"visibility": "yes",
 	"channelId": 0,
 	"extra": []
@@ -524,9 +479,9 @@
 	"channelId": 1209,
 	"extra": []
 }, {
-	"name": "News7",
+	"name": "NewsTamil 24X7",
 	"icon": "tamilnews7.png",
-	"link": "UC2f4w_ppqHplvjiNaoTAK9w",
+	"link": "NewsTamil24X7TV",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -584,21 +539,6 @@
 	"channelId": 671,
 	"extra": []
 }, {
-	"name": "Captain News",
-	"icon": "captainnews.jpg",
-	"link": "UCno6OgN7-NDmRTNBgqWevlw",
-	"drm_scheme": "",
-	"drm_license_url": "",
-	"us_ag": "",
-	"source": "ytc",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 1,
-	"category": "News",
-	"visibility": "yes",
-	"channel_id": 645,
-	"extra": []
-}, {
 	"name": "Vendhar TV",
 	"icon": "VendharTV.jpg",
 	"link": "vendhartv",
@@ -616,7 +556,7 @@
 }, {
 	"name": "Malaimurasu News",
 	"icon": "Malaimurasu.png",
-	"link": "MalaimurasuTv",
+	"link": "UCXbufH95DIUqyAWSzeDI0JQ",
 	"drmScheme": "",
 	"drmLicense": "",
 	"userAgent": "",
@@ -643,21 +583,6 @@
 	"visibility": "yes",
 	"channelId": 0,
 	"extra": ["Origin", "https://www.yupptv.com", "Referer", "https://www.yupptv.com/"]
-}, {
-	"name": "AUS TAMIL TV",
-	"icon": "austamil.png",
-	"link": "https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8",
-	"drmScheme": "",
-	"drmLicense": "",
-	"userAgent": "",
-	"source": "dd",
-	"channelLanguageId": 1,
-	"lang": "Tamil",
-	"channelCategoryId": 2,
-	"category": "Entertainment",
-	"visibility": "yes",
-	"channelId": 0,
-	"extra": []
 }, {
 	"name": "SVBC Kannada",
 	"icon": "SVBC.jpg",
