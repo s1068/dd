@@ -65,7 +65,7 @@
 }, {
 	"name": "omega",
 	"imageUrl": "",
-	"playLink": "rtmp://1cloud.digital:1935/omega/live",
+	"playLink": "https://1cloud.digital/live/hash.m3u8",
 	"userAgent": "",
 	"drmScheme": "",
 	"drmLicense": "",
