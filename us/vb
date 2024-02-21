@@ -1,0 +1,12 @@
+[
+    {
+        "logo": "https://tatalogo.pages.dev/521.png",
+        "name": "Sun Tv HD",
+        "link": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd|drmScheme=clearkey&drmLicense=19ba5efcd9f55a36ac8a82cac91de7fb:c69c83c145502d1d5d4044bb47a8774e"
+    },
+    {
+        "logo": "https://tatalogo.pages.dev/496.png",
+        "name": "Vijay Tv HD",
+        "link": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_818/output/manifest.mpd|drmScheme=clearkey&drmLicense=3100743f5e4550ea8c5e6813d0905db1:deb85f9b726b68407251cb63fbfedeaf"
+    }
+]
