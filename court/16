@@ -1,62 +1,82 @@
 [
     {
-        "name": "test 1"
+        "name": "test 1",
+        "logo": "https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjg3MmJhdGNoMTEtbnVubnktc3RpY2tlci0wNi5wbmc.png"
     },
     {
-        "name": "test 2"
+        "name": "test 12",
+        "logo": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L2pvYjY4Ni0yODYtcC5wbmc.png"
     },
     {
-        "name": "test 3"
+        "name": "test 13",
+        "logo": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L2pvYjY4Ni0yNzMtcC5wbmc.png"
     },
     {
-        "name": "test 4"
+        "name": "test 14",
+        "logo": "https://images.rawpixel.com/image_png_600/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyOC0yNzYtcC5wbmc.png"
     },
     {
-        "name": "test 5"
+        "name": "test 15",
+        "logo": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjI4OS1wbGEtMTIyLXVuaWNvcm5fMi5qcGc.jpg"
     },
     {
-        "name": "test 6"
+        "name": "test 16",
+        "logo": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyMi0xNzcucG5n.png"
     },
     {
-        "name": "test 7"
+        "name": "test 17",
+        "logo": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTEwL3B4MTE1MTY5Ny1pbWFnZS1qb2IxMzgyLnBuZw.png"
     },
     {
-        "name": "test 8"
+        "name": "test 18",
+        "logo": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvam9iNjc4LTAzMS14LmpwZw.jpg"
     },
     {
-        "name": "test 9"
+        "name": "test 19",
+        "logo": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L2pvYjY4Ni0yNzMtcC5wbmc.png"
     },
     {
-        "name": "test 10"
+        "name": "test 10",
+        "logo": "https://images.rawpixel.com/image_png_600/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyOC0yNzYtcC5wbmc.png"
     },
     {
-        "name": "test 11"
+        "name": "test 11",
+        "logo": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyMi0xNzcucG5n.png"
     },
     {
-        "name": "test 12"
+        "name": "test 12",
+        "logo": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjI4OS1wbGEtMTIyLXVuaWNvcm5fMi5qcGc.jpg"
     },
     {
-        "name": "test 13"
+        "name": "test 13",
+        "logo": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTEwL3B4MTE1MTY5Ny1pbWFnZS1qb2IxMzgyLnBuZw.png"
     },
     {
-        "name": "test 14"
+        "name": "test 14",
+        "logo": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvam9iNjc4LTAzMS14LmpwZw.jpg"
     },
     {
-        "name": "test 15"
+        "name": "test 15",
+        "logo": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L2pvYjY4Ni0yODYtcC5wbmc.png"
     },
     {
-        "name": "test 16"
+        "name": "test 16",
+        "logo": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L2pvYjY4Ni0yNzMtcC5wbmc.png"
     },
     {
-        "name": "test 17"
+        "name": "test 17",
+        "logo": "https://images.rawpixel.com/image_png_600/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyOC0yNzYtcC5wbmc.png"
     },
     {
-        "name": "test 18"
+        "name": "test 18",
+        "logo": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyMi0xNzcucG5n.png"
     },
     {
-        "name": "test 19"
+        "name": "test 19",
+        "logo": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjI4OS1wbGEtMTIyLXVuaWNvcm5fMi5qcGc.jpg"
     },
     {
-        "name": "test 20"
+        "name": "test 20",
+        "logo": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L2pvYjY4Ni0yODYtcC5wbmc.png"
     }
 ]
