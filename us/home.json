@@ -17,7 +17,7 @@
 }, {
 	"name": "Advika Tv",
 	"imageUrl": "advika.png",
-	"playLink": "rtmp://1cloud.digital/advika/advika",
+	"playLink": "https://cdn.onecloudlive.in/advika/advika/index.fmp4.m3u8",
 	"userAgent": "",
 	"drmScheme": "",
 	"drmLicense": "",
