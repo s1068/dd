@@ -304,10 +304,10 @@
 		"link": "https://livesim.dashif.org/livesim/testpic_2s/Manifest.mpd"
 	}, {
 		"name": "DASH Sintel Multi-lang audio/subtitle",
-		"link": "https://bitdash-a.akamaihd.net/content/sintel/sintel.mpd"
+		"link": "https://bitmovin-a.akamaihd.net/content/sintel/sintel.mpd"
 	}, {
 		"name": "HLS Sintel Multi-lang audio/subtitle",
-		"link": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+		"link": "https://bitmovin-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
 	}, {
 		"name": "HLS Apple BipBop H.264",
 		"link": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8"
@@ -325,7 +325,7 @@
 		"link": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/MI201109210084_mpeg-4_hd_high_1080p25_10mbits.mp4"
 	}, {
 		"name": "Progressive MP4 Sintel",
-		"link": "http://bitdash-a.akamaihd.net/content/sintel/Sintel.mp4"
+		"link": "https://cdn.bitmovin.com/content/assets/sintel/Sintel.mp4"
 	}, {
 		"name": "Progressive MP4 Popeye Public Domain Cartoon",
 		"link": "https://ia800204.us.archive.org/34/items/popeye_patriotic_popeye/popeye_patriotic_popeye_512kb.mp4"
