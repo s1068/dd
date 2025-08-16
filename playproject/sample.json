@@ -441,5 +441,21 @@
                 "link": "https://ia800204.us.archive.org/34/items/popeye_patriotic_popeye/popeye_patriotic_popeye_512kb.mp4"
             }
         ]
-    }
+    },
+    {
+        "name": "shaka-player",
+        "more": "more",
+        "content": [
+            {
+                "name": "Multiple Dolby audio formats",
+                "link": "https://webapi.streaming.dolby.com/v0_9/sources/media/v01/dash/lesson_8.mpd"
+            },
+            {
+                "name": "Dolby Vision P5 DASH (Multi-DRM CBCS)",
+                "link": "https://ott.dolby.com/browser_test_kit/cbcs/p5/24/dash.mpd",
+                "drmScheme": "widevine",
+                "drmLicense": "https://widevine-dash.ezdrm.com/proxy?pX=E8A6EE"
+            }
+        ]
+    },
 ]
