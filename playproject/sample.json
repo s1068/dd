@@ -443,11 +443,11 @@
         ]
     },
     {
-        "name": "'Dolby",
+        "name": "Dolby",
         "more": "more",
         "content": [
             {
-                "name": "'Dolby Vision P5 DASH",
+                "name": "Dolby Vision P5 DASH",
                 "link": "https://ott.dolby.com/browser_test_kit/clear/p5/24/dash.mpd"
             },
             {
