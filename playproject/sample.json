@@ -259,6 +259,10 @@
             {
                 "name": "Apple media playlist (AAC)",
                 "link": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/gear0/prog_index.m3u8"
+            },
+            {
+                "name": "Bitmovin (FMP4)",
+                "link": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/m3u8s-fmp4/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"
             }
         ]
     },
@@ -307,7 +311,7 @@
         ]
     },
     {
-        "name": "Misc",
+        "name": "Progressive",
         "more": "more",
         "content": [
             {
@@ -361,6 +365,14 @@
             {
                 "name": "One hour frame counter (MP4)",
                 "link": "https://storage.googleapis.com/exoplayer-test-media-1/mp4/frame-counter-one-hour.mp4"
+            },
+            {
+                "name": "Immersive Audio Format Sample (MP4, IAMF)",
+                "link": "https://github.com/AOMediaCodec/libiamf/raw/main/tests/test_000036_s.mp4"
+            },
+            {
+                "name": "MPEG-H HD (MP4, H265)",
+                "link": "https://media.githubusercontent.com/media/Fraunhofer-IIS/mpegh-test-content/main/TRI_Fileset_17_514H_D1_D2_D3_O1_24bit1080p50.mp4"
             }
         ]
     },
