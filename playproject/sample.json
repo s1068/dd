@@ -377,6 +377,36 @@
         ]
     },
     {
+        "name": "Dolby",
+        "more": "more",
+        "content": [
+            {
+                "name": "Dolby Vision P5 DASH",
+                "link": "https://ott.dolby.com/browser_test_kit/clear/p5/24/dash.mpd"
+            },
+            {
+                "name": "Dolby Vision P8.1 DASH",
+                "link": "https://ott.dolby.com/browser_test_kit/clear/p81/24/dash.mpd"
+            },
+            {
+                "name": "Dolby Vision P8.4 DASH",
+                "link": "https://ott.dolby.com/browser_test_kit/clear/p84/24/dash.mpd"
+            },
+            {
+                "name": "Dolby Vision P5 HLS",
+                "link": "https://ott.dolby.com/browser_test_kit/clear/p5/24/master.m3u8"
+            },
+            {
+                "name": "Dolby Vision P8.1 HLS",
+                "link": "https://ott.dolby.com/browser_test_kit/clear/p81/24/master.m3u8"
+            },
+            {
+                "name": "Dolby Vision P8.4 HLS",
+                "link": "https://ott.dolby.com/browser_test_kit/clear/p84/24/master.m3u8"
+            }
+        ]
+    },
+    {
         "name": "More Sample",
         "more": "more",
         "content": [
@@ -421,14 +451,6 @@
                 "link": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8"
             },
             {
-                "name": "MSS Tears Of Steel",
-                "link": "https://amssamples.streaming.mediaservices.windows.net/bc57e088-27ec-44e0-ac20-a85ccbcd50da/TearsOfSteel.ism/manifest"
-            },
-            {
-                "name": "MSS Elephants Dream Multi Audio",
-                "link": "http://amssamples.streaming.mediaservices.windows.net/7ceb010f-d9a3-467a-915e-5728acced7e3/ElephantsDreamMultiAudio.ism/manifest"
-            },
-            {
                 "name": "Progressive MP4",
                 "link": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/MI201109210084_mpeg-4_hd_high_1080p25_10mbits.mp4"
             },
@@ -439,36 +461,6 @@
             {
                 "name": "Progressive MP4 Popeye Public Domain Cartoon",
                 "link": "https://ia800204.us.archive.org/34/items/popeye_patriotic_popeye/popeye_patriotic_popeye_512kb.mp4"
-            }
-        ]
-    },
-    {
-        "name": "Dolby",
-        "more": "more",
-        "content": [
-            {
-                "name": "Dolby Vision P5 DASH",
-                "link": "https://ott.dolby.com/browser_test_kit/clear/p5/24/dash.mpd"
-            },
-            {
-                "name": "Dolby Vision P8.1 DASH",
-                "link": "https://ott.dolby.com/browser_test_kit/clear/p81/24/dash.mpd"
-            },
-            {
-                "name": "Dolby Vision P8.4 DASH",
-                "link": "https://ott.dolby.com/browser_test_kit/clear/p84/24/dash.mpd"
-            },
-            {
-                "name": "Dolby Vision P5 HLS",
-                "link": "https://ott.dolby.com/browser_test_kit/clear/p5/24/master.m3u8"
-            },
-            {
-                "name": "Dolby Vision P8.1 HLS",
-                "link": "https://ott.dolby.com/browser_test_kit/clear/p81/24/master.m3u8"
-            },
-            {
-                "name": "Dolby Vision P8.4 HLS",
-                "link": "https://ott.dolby.com/browser_test_kit/clear/p84/24/master.m3u8"
             }
         ]
     }
