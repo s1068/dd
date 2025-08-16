@@ -289,13 +289,10 @@
 		"drmScheme": "widevine",
 		"drmLicense": "https://cwip-shaka-proxy.appspot.com/no_auth"
 	}, {
-		"name": "DASH Edgeware Gorilla",
-		"link": "https://streambuilder-sp-cdn.edgeware.tv/__cl/cg:ingest/__c/gorilla/__op/default/__f/manifest.mpd"
-	}, {
 		"name": "DASH Axinom ClearKey DRM",
 		"link": "https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_1080p_ClearKey.mpd",
 		"drmScheme": "clearkey",
-		"drmLicense": "https://drm-clearkey-testvectors.axtest.net/AcquireLicense"
+		"drmLicense": "nrQFDeRLSAKTLifXUIPiZg:FmY0xnWCPCNaSpRG-tUuTQ"
 	}, {
 		"name": "DASH Axinom Clear",
 		"link": "https://media.axprod.net/TestVectors/v7-Clear/Manifest_MultiPeriod_1080p.mpd"
