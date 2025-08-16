@@ -443,18 +443,32 @@
         ]
     },
     {
-        "name": "shaka-player",
+        "name": "'Dolby",
         "more": "more",
         "content": [
             {
-                "name": "Multiple Dolby audio formats",
-                "link": "https://webapi.streaming.dolby.com/v0_9/sources/media/v01/dash/lesson_8.mpd"
+                "name": "'Dolby Vision P5 DASH",
+                "link": "https://ott.dolby.com/browser_test_kit/clear/p5/24/dash.mpd"
             },
             {
-                "name": "Dolby Vision P5 DASH (Multi-DRM CBCS)",
-                "link": "https://ott.dolby.com/browser_test_kit/cbcs/p5/24/dash.mpd",
-                "drmScheme": "widevine",
-                "drmLicense": "https://widevine-dash.ezdrm.com/proxy?pX=E8A6EE"
+                "name": "Dolby Vision P8.1 DASH",
+                "link": "https://ott.dolby.com/browser_test_kit/clear/p81/24/dash.mpd"
+            },
+            {
+                "name": "Dolby Vision P8.4 DASH",
+                "link": "https://ott.dolby.com/browser_test_kit/clear/p84/24/dash.mpd"
+            },
+            {
+                "name": "Dolby Vision P5 HLS",
+                "link": "https://ott.dolby.com/browser_test_kit/clear/p5/24/master.m3u8"
+            },
+            {
+                "name": "Dolby Vision P8.1 HLS",
+                "link": "https://ott.dolby.com/browser_test_kit/clear/p81/24/master.m3u8"
+            },
+            {
+                "name": "Dolby Vision P8.4 HLS",
+                "link": "https://ott.dolby.com/browser_test_kit/clear/p84/24/master.m3u8"
             }
         ]
     }
